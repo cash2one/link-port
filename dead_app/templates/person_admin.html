@@ -1,0 +1,144 @@
+{% extends "basic.html"%}
+{% block content %}
+			<div id="page-wrapper">
+				<div class="graphs">
+					 <div class="xs tabls">
+                        <input type="text" name="searchkey" id="searchkey">
+                        <button onclick="search()" type="button">查找</button>
+						<div class="bs-example4" data-example-id="contextual-table">待审批
+						<table class="table">
+						  <thead>
+							<tr>
+							  <th>id号</th>
+							  <th>产品线</th>
+							  <th>产品描述</th>
+							  <th>url配额</th>
+							  <th>特殊站点配额</th>
+							  <th>详情</th>
+							  <th id="approve_menu">审批</th>
+							</tr>
+						  </thead>
+						  <tbody>
+                          {% for waitpass_list in waitpass_listing %}
+							<tr class="active">
+							  <th scope="row">{{waitpass_list.item_id}}</th>
+							  <td>{{waitpass_list.item_name}}</td>
+							  <td>{{waitpass_list.item_reason}}</td>
+							  <td>{{waitpass_list.item_week_url_count}}</td>
+							  <td>{{waitpass_list.item_site}}</td>
+							  <td><a href='http://cp01-spimon.epc.baidu.com:8222/per_detail?du_id={{waitpass_list.item_id}}'>more</a></td>
+                              <!--<input type="hidden" name="du_id" id="du_id" value={{waitpass_list.item_id}} />-->
+							  <td name="approve_list"><button type="button" onclick="approve({{waitpass_list.item_id}},'1')">通过</button>&nbsp;&nbsp;<button type="button" onclick="approve({{waitpass_list.item_id}},'0')">拒绝</button></td>
+							</tr>
+                          {% endfor %}
+						  </tbody>
+						</table>
+					   </div>
+					   <div class="panel-body1">审批未通过
+					   <table class="table">
+						  <thead>
+							<tr>
+							  <th>id号</th>
+							  <th>产品线</th>
+							  <th>产品描述</th>
+							  <th>url配额</th>
+							  <th>特殊站点配额</th>
+							  <th>详情</th>
+							  
+							</tr>
+						  </thead>
+						  <tbody>
+                          {% for nopass_list in nopass_listing %}
+							<tr class="active">
+							  <th scope="row">{{nopass_list.item_id}}</th>
+							  <td>{{nopass_list.item_name}}</td>
+							  <td>{{nopass_list.item_reason}}</td>
+							  <td>{{nopass_list.item_week_url_count}}</td>
+							  <td>{{nopass_list.item_site}}</td>
+							  <td><a href='http://cp01-spimon.epc.baidu.com:8222/per_detail?du_id={{nopass_list.item_id}}'>more</a></td>
+							 
+							</tr>
+                          {% endfor %}
+						  </tbody>
+						</table>
+						</div>
+					   <div class="panel-body1">审批通过
+					   <table class="table">
+						  <thead>
+							<tr>
+							  <th>id号</th>
+							  <th>产品线</th>
+							  <th>产品描述</th>
+							  <th>url配额</th>
+							  <th>特殊站点配额</th>
+							  <th>详情</th>
+							  
+							</tr>
+						  </thead>
+						  <tbody>
+                          {% for pass_list in pass_listing %}
+							<tr class="active">
+							  <th scope="row">{{pass_list.item_id}}</th>
+							  <td>{{pass_list.item_name}}</td>
+							  <td>{{pass_list.item_reason}}</td>
+							  <td>{{pass_list.item_week_url_count}}</td>
+							  <td>{{pass_list.item_site}}</td>
+							  <td><a href='http://cp01-spimon.epc.baidu.com:8222/per_detail?du_id={{pass_list.item_id}}'>more</a></td>
+							 
+							</tr>
+                          {% endfor %}
+						  </tbody>
+						</table>
+						</div>
+					</div>
+				</div>
+			</div>
+<script type="text/javascript" language="javascript">
+    function approve(du_id,flag){
+        //var du_id = $("#du_id").val();
+        var judge = confirm("是否进行审核？");
+        if(judge == true){
+            var param = {du_id:du_id,flag:flag};
+            console.log(param);
+            $.ajax({
+                url:"approve",
+                type:"GET",
+                data:param,
+                async:true,
+                dataType: "json",
+                success: function(response) {
+                    if(response["result"] == "success"){
+                        alert("审核成功");
+                    }
+                    else if(response["result"] == "fail"){
+                        alert("该id号对应的产品线不存在，请确认后进行操作");
+                    }
+                    window.location.href = "person";
+                },
+                error: function(){
+                    alert("审核失败");
+                }
+            });
+        }
+        else
+            return;
+    }
+</script>
+<script type="text/javascript" language="javascript">
+    function search(){
+        var searchkey = $("#searchkey").val();
+        window.location.href = "per_search?searchkey="+searchkey;
+    }
+</script>
+<script type="text/javascript" language="javascript">
+    $(document).ready(function(){
+        var username = '{{username}}';
+        var approver = '{{approver}}';
+        //alert(username);
+        if(approver.indexOf(username)<0){
+            $("#approve_menu").hide();
+            $("td[name='approve_list']").hide();
+        }
+    });
+</script>
+{%endblock%}

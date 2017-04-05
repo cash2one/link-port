@@ -1,0 +1,3310 @@
+[27/Mar/2017 05:59:34] "GET /apply HTTP/1.1" 302 0
+[27/Mar/2017 05:59:34] "GET /accounts/login/?next=/apply HTTP/1.1" 302 0
+[27/Mar/2017 05:59:46] "GET /accounts/login/?next=%2Fapply&ticket=ST-24322-dsKBXOCgV5o1jHYdsrcb-uuap HTTP/1.1" 302 0
+[27/Mar/2017 05:59:46] "GET /apply HTTP/1.1" 200 7979
+[27/Mar/2017 05:59:46] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /css/style.css HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /css/animate.css HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/Chart.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/classie.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/wow.min.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/uisearch.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/scripts.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /images/1.jpg HTTP/1.1" 304 0
+[27/Mar/2017 05:59:46] "GET /images/search.png HTTP/1.1" 304 0
+[27/Mar/2017 05:59:48] "GET /apply HTTP/1.1" 200 7979
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:59:26
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 06:03:26
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 06:09:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[27/Mar/2017 07:29:40] "GET / HTTP/1.1" 200 7979
+Validating models...
+
+0 errors found
+March 27, 2017 - 06:10:14
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f124387bc08>
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 96, in wrapper
+    et, ev, tb = sys.exc_info()
+AttributeError: 'NoneType' object has no attribute 'exc_info'
+[27/Mar/2017 07:33:24] "GET /person HTTP/1.1" 200 11510
+[27/Mar/2017 07:34:23] "GET /submit HTTP/1.1" 200 7693
+[27/Mar/2017 07:35:36] "GET /apply HTTP/1.1" 500 82052
+[27/Mar/2017 07:35:39] "GET /apply HTTP/1.1" 500 81936
+Validating models...
+
+0 errors found
+March 27, 2017 - 07:33:21
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[27/Mar/2017 07:36:16] "GET /apply HTTP/1.1" 200 7979
+[27/Mar/2017 07:46:06] "GET /detailjob HTTP/1.1" 200 8730
+Validating models...
+
+0 errors found
+March 27, 2017 - 07:36:15
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[27/Mar/2017 07:58:52] "GET /detailjob HTTP/1.1" 200 8730
+Validating models...
+
+0 errors found
+March 27, 2017 - 07:49:37
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:17:30
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:18:05
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:18:16
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:18:20
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:18:26
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:19:13
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[27/Mar/2017 08:52:42] "GET / HTTP/1.1" 200 7979
+Validating models...
+
+0 errors found
+March 27, 2017 - 08:44:49
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 11:50:34
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:16:28
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:16:32
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:17:10
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:17:17
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:18:39
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:18:51
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:19:05
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:19:11
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:19:14
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:19:35
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:19:50
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:19:54
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:20:22
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:20:29
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:32:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:32:31
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:34:35
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:35:13
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:35:19
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 28, 2017 - 06:36:02
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[29/Mar/2017 02:55:34] "GET / HTTP/1.1" 302 0
+[29/Mar/2017 02:55:34] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[29/Mar/2017 02:55:41] "GET /accounts/login/?next=%2F&ticket=ST-39053-ddCcbpXKoEPSlFGmXP9f-uuap HTTP/1.1" 302 0
+[29/Mar/2017 02:55:41] "GET / HTTP/1.1" 200 7979
+[29/Mar/2017 03:08:43] "GET /apply HTTP/1.1" 200 7979
+[29/Mar/2017 03:09:57] "GET /person HTTP/1.1" 200 11510
+[29/Mar/2017 03:10:14] "GET /apply HTTP/1.1" 200 7979
+[29/Mar/2017 03:10:22] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 03:10:26] "GET /person HTTP/1.1" 200 11510
+[29/Mar/2017 03:10:32] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 03:10:56] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 03:11:21] "GET /detailjob HTTP/1.1" 200 8730
+[29/Mar/2017 03:11:23] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 03:11:26] "GET /detailjob HTTP/1.1" 200 8730
+[29/Mar/2017 03:12:00] "GET /detailjob HTTP/1.1" 200 8730
+[29/Mar/2017 03:12:02] "GET /per_pass HTTP/1.1" 200 7826
+[29/Mar/2017 03:12:08] "GET /submit HTTP/1.1" 200 7693
+Validating models...
+
+0 errors found
+March 28, 2017 - 08:33:14
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 03:16:50
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[29/Mar/2017 04:49:40] "GET / HTTP/1.1" 302 0
+[29/Mar/2017 04:49:40] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[29/Mar/2017 04:49:40] "GET /accounts/login/?next=%2F&ticket=ST-42118-DwnDqRGnjyRYKIejfJUX-uuap HTTP/1.1" 302 0
+[29/Mar/2017 04:49:40] "GET / HTTP/1.1" 200 7979
+[29/Mar/2017 04:49:40] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[29/Mar/2017 04:49:40] "GET /css/style.css HTTP/1.1" 200 141729
+[29/Mar/2017 04:49:40] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[29/Mar/2017 04:49:40] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[29/Mar/2017 04:49:40] "GET /css/animate.css HTTP/1.1" 200 70196
+[29/Mar/2017 04:49:40] "GET /js/Chart.js HTTP/1.1" 200 44471
+[29/Mar/2017 04:49:40] "GET /js/classie.js HTTP/1.1" 200 1835
+[29/Mar/2017 04:49:40] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[29/Mar/2017 04:49:40] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[29/Mar/2017 04:49:40] "GET /js/scripts.js HTTP/1.1" 200 4435
+[29/Mar/2017 04:49:40] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[29/Mar/2017 04:49:40] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[29/Mar/2017 04:49:40] "GET /images/search.png HTTP/1.1" 200 3030
+[29/Mar/2017 04:49:40] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[29/Mar/2017 04:49:40] "GET /images/1.jpg HTTP/1.1" 200 13741
+[29/Mar/2017 04:51:26] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:51:29] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 04:51:30] "GET /detailjob HTTP/1.1" 200 8730
+[29/Mar/2017 04:51:37] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 04:51:40] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:51:42] "GET /apply HTTP/1.1" 200 7979
+[29/Mar/2017 04:51:56] "GET /apply HTTP/1.1" 200 7979
+[29/Mar/2017 04:52:05] "GET /person HTTP/1.1" 200 11510
+[29/Mar/2017 04:52:35] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:53:29] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 04:53:40] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:53:43] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 04:53:45] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:54:35] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:54:37] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:54:39] "GET /hisjob HTTP/1.1" 200 7104
+[29/Mar/2017 04:54:40] "GET /submit HTTP/1.1" 200 7693
+[29/Mar/2017 04:54:48] "GET /person HTTP/1.1" 200 11510
+[29/Mar/2017 07:20:55] "GET / HTTP/1.1" 200 7979
+[29/Mar/2017 07:21:50] "GET /apply HTTP/1.1" 200 7979
+[29/Mar/2017 07:36:25] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\x82\x01\x00\x00~\x03\x01X\xdbc\xf9\xa5d\x8d\xda\x82a\x8c\xee\xc4\xa8\xb3:')
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 582, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 323, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 638, in __init__
+    self.handle()
+  File "/home/work/.jumbo/lib/python2.7/wsgiref/simple_server.py", line 117, in handle
+    if not self.parse_request(): # An error code has been sent, just exit
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 281, in parse_request
+    "Bad HTTP/0.9 request type (%r)" % command)
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 368, in send_error
+    self.send_response(code, message)
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 385, in send_response
+    self.log_request(code)
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 422, in log_request
+    self.requestline, str(code), str(size))
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 138, in log_message
+    msg = "[%s] %s\n" % (self.log_date_time_string(), format % args)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0x82 in position 5: invalid start byte
+[29/Mar/2017 07:36:25] code 400, message Bad request syntax ('\x16\x03\x00\x005\x01\x00\x001\x03\x00X\xdbc\xf9+\x1f\x97\xbd\xbc\xf0\x1c\xc0BZ\xf2\x02EZJ\x15\xfe\xbf\x06+\xaeK\xf4\xe8\x08V\xb0\xdd\x00\x00')
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 582, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 323, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 638, in __init__
+    self.handle()
+  File "/home/work/.jumbo/lib/python2.7/wsgiref/simple_server.py", line 117, in handle
+    if not self.parse_request(): # An error code has been sent, just exit
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 286, in parse_request
+    self.send_error(400, "Bad request syntax (%r)" % requestline)
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 368, in send_error
+    self.send_response(code, message)
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 385, in send_response
+    self.log_request(code)
+  File "/home/work/.jumbo/lib/python2.7/BaseHTTPServer.py", line 422, in log_request
+    self.requestline, str(code), str(size))
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 138, in log_message
+    msg = "[%s] %s\n" % (self.log_date_time_string(), format % args)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xdb in position 13: invalid continuation byte
+Validating models...
+
+0 errors found
+March 29, 2017 - 03:20:19
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ('172.20.134.127', 56301)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('172.20.134.127', 56302)
+----------------------------------------
+Validating models...
+
+0 errors found
+March 29, 2017 - 08:23:27
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 08:31:08
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 08:31:12
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 08:35:27
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 08:37:19
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 08:37:38
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f309b1616e0>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 83, in <module>
+    admin.site.register(models.DeadUser)
+NameError: name 'admin' is not defined
+Validating models...
+
+0 errors found
+March 29, 2017 - 09:22:35
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 09:22:51
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 09:23:12
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 09:23:21
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 09:25:46
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 29, 2017 - 11:46:23
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 03:08:35] "GET / HTTP/1.1" 200 7979
+[30/Mar/2017 04:27:43] "GET /apply HTTP/1.1" 200 7979
+[30/Mar/2017 04:27:55] "GET /apply HTTP/1.1" 200 7979
+[30/Mar/2017 04:35:45] "GET /apply HTTP/1.1" 200 8064
+[30/Mar/2017 04:35:45] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 04:35:45] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /apply HTTP/1.1" 200 8125
+[30/Mar/2017 04:37:05] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:05] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:37:06] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 04:37:06] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 04:37:15] "GET / HTTP/1.1" 200 8125
+[30/Mar/2017 04:37:22] "GET / HTTP/1.1" 200 8125
+[30/Mar/2017 04:38:22] "GET / HTTP/1.1" 200 8146
+[30/Mar/2017 04:38:22] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 04:38:22] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET / HTTP/1.1" 200 8146
+[30/Mar/2017 04:38:36] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 04:38:36] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET / HTTP/1.1" 200 8155
+[30/Mar/2017 04:40:14] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 04:40:14] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET / HTTP/1.1" 200 8155
+[30/Mar/2017 04:40:58] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 04:40:58] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 04:41:42] "GET /?reason=%E5%95%8A%E5%8F%91%E5%8F%91%E7%9A%84%E8%90%A8%E8%8A%AC%E7%9A%84%E6%92%92&reason=&week_url_count=on&level=on HTTP/1.1" 200 8155
+[30/Mar/2017 04:41:49] "GET /?reason=%E5%AF%B9%E6%96%B9%E8%90%A8%E8%8A%AC%E5%A4%A7%E4%BA%8B&reason=%E8%90%A8%E8%8A%AC%E7%9A%84%E6%92%92&week_url_count=on&level=on HTTP/1.1" 200 8155
+[30/Mar/2017 05:44:30] "GET /?reason=%E5%AF%B9%E6%96%B9%E8%90%A8%E8%8A%AC%E5%A4%A7%E4%BA%8B&reason=%E8%90%A8%E8%8A%AC%E7%9A%84%E6%92%92&week_url_count=on&level=on HTTP/1.1" 200 9076
+[30/Mar/2017 05:44:30] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 05:44:30] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 05:44:42] "GET /?reason=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9076
+[30/Mar/2017 05:44:43] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:46:45] "GET /?reason=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9099
+[30/Mar/2017 05:46:45] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:45] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:46:46] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:46:46] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 05:46:46] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 05:46:50] "GET /?reason=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9099
+[30/Mar/2017 05:46:50] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:46:54] "GET /?reason=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9099
+[30/Mar/2017 05:46:54] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:46:56] "GET /apply HTTP/1.1" 200 9099
+[30/Mar/2017 05:46:57] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:47:02] "GET /apply?reason=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9099
+[30/Mar/2017 05:47:03] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:47:15] "GET /apply HTTP/1.1" 200 9099
+[30/Mar/2017 05:47:15] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:47:22] "GET /apply HTTP/1.1" 302 0
+[30/Mar/2017 05:47:23] "GET /accounts/login/?next=/apply HTTP/1.1" 302 0
+[30/Mar/2017 05:47:23] "GET /accounts/login/?next=%2Fapply&ticket=ST-45172-2TPD7OdTpXPVt6cytUqE-uuap HTTP/1.1" 302 0
+[30/Mar/2017 05:47:23] "GET /apply HTTP/1.1" 200 9099
+[30/Mar/2017 05:47:23] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[30/Mar/2017 05:47:23] "GET /js/Chart.js HTTP/1.1" 200 44471
+[30/Mar/2017 05:47:23] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[30/Mar/2017 05:47:23] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[30/Mar/2017 05:47:23] "GET /css/animate.css HTTP/1.1" 200 70196
+[30/Mar/2017 05:47:23] "GET /css/style.css HTTP/1.1" 200 141729
+[30/Mar/2017 05:47:23] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[30/Mar/2017 05:47:23] "GET /js/classie.js HTTP/1.1" 200 1835
+[30/Mar/2017 05:47:23] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[30/Mar/2017 05:47:23] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[30/Mar/2017 05:47:23] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[30/Mar/2017 05:47:23] "GET /js/scripts.js HTTP/1.1" 200 4435
+[30/Mar/2017 05:47:23] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[30/Mar/2017 05:47:23] "GET /images/search.png HTTP/1.1" 200 3030
+[30/Mar/2017 05:47:23] "GET /images/1.jpg HTTP/1.1" 200 13741
+[30/Mar/2017 05:53:38] "GET /apply HTTP/1.1" 200 9051
+[30/Mar/2017 05:53:41] "GET /apply HTTP/1.1" 200 9051
+[30/Mar/2017 05:53:45] "GET /apply HTTP/1.1" 200 9051
+[30/Mar/2017 05:53:48] "GET /apply?name=a&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9051
+[30/Mar/2017 05:54:33] "GET /apply HTTP/1.1" 200 9046
+[30/Mar/2017 05:54:33] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 05:54:33] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 05:54:33] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 05:57:23] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9046
+[30/Mar/2017 05:57:23] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:04:17] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9046
+[30/Mar/2017 06:04:19] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9046
+[30/Mar/2017 06:15:56] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9050
+[30/Mar/2017 06:15:56] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:56] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:15:57] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:15:57] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:15:57] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:16:01] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9050
+[30/Mar/2017 06:16:01] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:16:04] "GET /apply HTTP/1.1" 200 9050
+[30/Mar/2017 06:16:04] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:16:40] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9050
+[30/Mar/2017 06:16:40] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:18:07] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9037
+[30/Mar/2017 06:18:08] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:08] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:09] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:18:09] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:18:09] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:18:10] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9037
+[30/Mar/2017 06:18:12] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:12] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:18:13] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:18:13] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:18:13] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:18:15] "GET /apply HTTP/1.1" 200 9037
+[30/Mar/2017 06:18:17] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:18:21] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9037
+[30/Mar/2017 06:18:22] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:20:09] "GET /apply HTTP/1.1" 200 9049
+[30/Mar/2017 06:20:11] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:20:20] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9049
+[30/Mar/2017 06:20:22] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:31:25] "GET /apply HTTP/1.1" 200 9089
+[30/Mar/2017 06:31:26] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:31:30] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9089
+[30/Mar/2017 06:31:31] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:31:42] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9089
+[30/Mar/2017 06:31:43] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:31:55] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9089
+[30/Mar/2017 06:31:55] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:55] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:56] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:31:56] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:31:56] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:31:57] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9089
+[30/Mar/2017 06:31:59] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:31:59] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:31:59] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:34:20] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9097
+[30/Mar/2017 06:34:21] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:21] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:34:22] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:34:22] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:34:22] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:34:28] "GET /apply HTTP/1.1" 200 9097
+[30/Mar/2017 06:34:29] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:34:38] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9097
+[30/Mar/2017 06:34:39] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:35:20] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9097
+[30/Mar/2017 06:35:20] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:20] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:21] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:35:21] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:35:21] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9097
+[30/Mar/2017 06:35:23] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:23] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:35:24] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:35:24] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:35:26] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9097
+[30/Mar/2017 06:35:27] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:27] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:35:28] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:35:28] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:35:28] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:36:48] "GET /apply HTTP/1.1" 200 9148
+[30/Mar/2017 06:36:49] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:37:30] "GET /apply HTTP/1.1" 200 9148
+[30/Mar/2017 06:37:30] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:30] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:31] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:37:31] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:37:31] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:37:31] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:37:39] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9148
+[30/Mar/2017 06:37:40] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:37:43] "GET /apply HTTP/1.1" 200 9148
+[30/Mar/2017 06:37:44] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:38:14] "GET /apply HTTP/1.1" 200 9144
+[30/Mar/2017 06:38:15] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:38:15] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:38:15] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:38:23] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9144
+[30/Mar/2017 06:38:24] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:38:31] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9144
+[30/Mar/2017 06:38:32] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:39:59] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:39:59] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:39:59] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:40:00] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:40:00] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:40:00] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:40:00] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:40:11] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:12] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:40:23] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:24] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:24] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:25] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:25] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:26] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:27] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:28] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:29] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:30] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:31] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:34] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:36] "GET /apply HTTP/1.1" 200 9135
+[30/Mar/2017 06:40:42] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9135
+[30/Mar/2017 06:41:13] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9142
+[30/Mar/2017 06:41:14] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9142
+[30/Mar/2017 06:41:15] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9142
+[30/Mar/2017 06:41:17] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9142
+[30/Mar/2017 06:41:19] "GET /apply HTTP/1.1" 200 9142
+[30/Mar/2017 06:41:56] "GET /apply HTTP/1.1" 200 9150
+[30/Mar/2017 06:42:00] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9150
+[30/Mar/2017 06:42:41] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9146
+[30/Mar/2017 06:42:42] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:42] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:43] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:42:43] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:42:43] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:42:43] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:42:44] "GET /apply HTTP/1.1" 200 9146
+[30/Mar/2017 06:42:46] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:42:50] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9146
+[30/Mar/2017 06:42:52] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:42:56] "GET /apply HTTP/1.1" 200 9146
+[30/Mar/2017 06:42:57] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9146
+[30/Mar/2017 06:43:17] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9146
+[30/Mar/2017 06:43:19] "GET /apply?name=&reason=&week_url_count=on&level=on&sitefile= HTTP/1.1" 200 9146
+[30/Mar/2017 06:43:24] "GET /apply HTTP/1.1" 200 9146
+[30/Mar/2017 06:45:10] "GET /apply HTTP/1.1" 200 9160
+[30/Mar/2017 06:45:11] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:45:16] "POST /apply HTTP/1.1" 200 9160
+[30/Mar/2017 06:45:17] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:48:36] "GET /apply HTTP/1.1" 200 9113
+[30/Mar/2017 06:48:40] "POST /apply HTTP/1.1" 200 9113
+[30/Mar/2017 06:48:46] "POST /apply HTTP/1.1" 200 9113
+[30/Mar/2017 06:49:17] "POST /apply HTTP/1.1" 200 9109
+[30/Mar/2017 06:49:17] "GET /css/style.css HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/Chart.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /css/animate.css HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/wow.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/scripts.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/uisearch.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/classie.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:17] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[30/Mar/2017 06:49:18] "GET /images/search.png HTTP/1.1" 304 0
+[30/Mar/2017 06:49:18] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:49:18] "GET /images/1.jpg HTTP/1.1" 304 0
+[30/Mar/2017 06:49:21] "GET /apply HTTP/1.1" 200 9109
+[30/Mar/2017 06:49:22] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:49:27] "POST /apply HTTP/1.1" 200 9109
+[30/Mar/2017 06:49:28] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:49:45] "GET /apply HTTP/1.1" 200 9115
+[30/Mar/2017 06:49:48] "POST /apply HTTP/1.1" 200 9115
+[30/Mar/2017 06:49:51] "POST /apply HTTP/1.1" 200 9115
+[30/Mar/2017 06:49:55] "GET /apply HTTP/1.1" 200 9115
+[30/Mar/2017 06:49:56] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:49:59] "POST /apply HTTP/1.1" 200 9115
+[30/Mar/2017 06:50:00] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[30/Mar/2017 06:51:28] "GET /apply HTTP/1.1" 200 9134
+[30/Mar/2017 06:51:30] "POST /baidu.com HTTP/1.1" 404 3530
+[30/Mar/2017 06:54:27] "GET /apply HTTP/1.1" 200 9116
+[30/Mar/2017 06:54:35] "POST /apply HTTP/1.1" 200 9116
+[30/Mar/2017 06:55:01] "GET /apply HTTP/1.1" 200 9123
+[30/Mar/2017 07:06:25] "GET /apply HTTP/1.1" 200 9176
+[30/Mar/2017 07:06:42] "GET /apply HTTP/1.1" 200 9180
+[30/Mar/2017 07:07:07] "POST /apply HTTP/1.1" 200 9180
+[30/Mar/2017 07:10:19] "GET /apply HTTP/1.1" 200 9276
+[30/Mar/2017 07:10:39] "POST /apply HTTP/1.1" 200 9276
+[30/Mar/2017 07:13:35] "GET /apply HTTP/1.1" 200 9325
+[30/Mar/2017 07:13:50] "POST /apply HTTP/1.1" 200 9325
+[30/Mar/2017 07:18:35] "GET / HTTP/1.1" 200 9327
+[30/Mar/2017 07:18:37] "GET / HTTP/1.1" 200 9327
+Validating models...
+
+0 errors found
+March 29, 2017 - 12:18:34
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 07:33:04] "GET /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:33:14] "POST /user_apply HTTP/1.1" 500 11629
+[30/Mar/2017 07:33:14] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:34:24] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:34:24] "POST /user_apply HTTP/1.1" 500 11629
+[30/Mar/2017 07:36:55] "GET /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:37:07] "POST /user_apply HTTP/1.1" 500 11629
+[30/Mar/2017 07:37:07] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:40:28] "GET /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:40:42] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:40:42] "POST /user_apply HTTP/1.1" 500 11629
+[30/Mar/2017 07:42:11] "GET /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:42:24] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:42:24] "POST /user_apply HTTP/1.1" 500 11696
+Validating models...
+
+0 errors found
+March 30, 2017 - 07:26:07
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 07:48:59] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:48:59] "POST /user_apply HTTP/1.1" 500 11694
+Validating models...
+
+0 errors found
+March 30, 2017 - 07:47:03
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 07:51:30] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:51:30] "POST /user_apply HTTP/1.1" 500 11704
+Validating models...
+
+0 errors found
+March 30, 2017 - 07:50:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 07:53:57] "GET /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:54:14] "POST /apply HTTP/1.1" 200 9735
+[30/Mar/2017 07:54:14] "POST /user_apply HTTP/1.1" 500 11709
+[30/Mar/2017 08:05:08] "GET /apply HTTP/1.1" 200 10030
+[30/Mar/2017 08:05:19] "POST /apply HTTP/1.1" 200 10030
+[30/Mar/2017 08:05:19] "POST /user_apply HTTP/1.1" 500 11699
+[30/Mar/2017 08:07:19] "GET /apply HTTP/1.1" 200 10030
+[30/Mar/2017 08:07:42] "GET /apply HTTP/1.1" 200 10038
+[30/Mar/2017 08:07:50] "POST /user_apply HTTP/1.1" 500 11699
+[30/Mar/2017 08:07:50] "POST /apply HTTP/1.1" 200 10038
+[30/Mar/2017 08:09:25] "GET / HTTP/1.1" 500 109576
+[30/Mar/2017 08:09:31] "GET / HTTP/1.1" 500 109817
+[30/Mar/2017 08:09:47] "GET / HTTP/1.1" 500 109817
+[30/Mar/2017 08:09:48] "GET /apply HTTP/1.1" 200 10038
+[30/Mar/2017 08:09:50] "GET / HTTP/1.1" 500 105181
+[30/Mar/2017 08:09:54] "GET / HTTP/1.1" 500 105181
+[30/Mar/2017 08:09:55] "GET / HTTP/1.1" 500 105181
+[30/Mar/2017 08:09:56] "POST /apply HTTP/1.1" 200 10038
+[30/Mar/2017 08:09:56] "POST /user_apply HTTP/1.1" 500 11699
+[30/Mar/2017 08:09:58] "GET /apply HTTP/1.1" 500 105241
+[30/Mar/2017 08:11:12] "GET /apply HTTP/1.1" 200 10065
+[30/Mar/2017 08:11:22] "POST /user_apply HTTP/1.1" 500 11699
+[30/Mar/2017 08:12:03] "GET / HTTP/1.1" 200 10065
+[30/Mar/2017 08:12:06] "GET /apply HTTP/1.1" 200 10065
+[30/Mar/2017 08:12:13] "POST /user_apply HTTP/1.1" 500 11334
+[30/Mar/2017 08:12:18] "GET /apply HTTP/1.1" 200 10065
+[30/Mar/2017 08:14:55] "GET / HTTP/1.1" 500 117637
+[30/Mar/2017 08:20:33] "GET / HTTP/1.1" 500 109817
+Validating models...
+
+0 errors found
+March 30, 2017 - 07:53:56
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 08:29:06] "GET /apply HTTP/1.1" 200 10127
+[30/Mar/2017 08:29:15] "POST /apply HTTP/1.1" 200 10127
+[30/Mar/2017 08:29:52] "GET /apply HTTP/1.1" 200 10133
+[30/Mar/2017 08:30:05] "POST /apply HTTP/1.1" 200 10133
+[30/Mar/2017 08:31:46] "GET /apply HTTP/1.1" 500 105404
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:21:04
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+None
+aaa
+None
+11
+[30/Mar/2017 08:33:12] "GET / HTTP/1.1" 200 10133
+[30/Mar/2017 08:33:15] "GET /apply HTTP/1.1" 200 10133
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:31:59
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 08:36:08] "GET / HTTP/1.1" 200 10133
+[30/Mar/2017 08:36:31] "GET / HTTP/1.1" 200 10141
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:36:00
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 08:37:08] "GET /apply HTTP/1.1" 200 10137
+[30/Mar/2017 08:37:23] "POST /apply HTTP/1.1" 200 10135
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:37:03
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 08:41:38] "GET /apply HTTP/1.1" 500 69115
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:41:33
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 08:45:07] "GET /apply HTTP/1.1" 200 10152
+[30/Mar/2017 08:45:16] "POST /apply HTTP/1.1" 200 10150
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:44:45
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 08:53:39] "GET /apply HTTP/1.1" 500 69090
+Validating models...
+
+0 errors found
+March 30, 2017 - 08:48:05
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:05:35] "GET /submit HTTP/1.1" 200 7693
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:01:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:06:53] "GET /apply HTTP/1.1" 200 10147
+[30/Mar/2017 09:07:58] "POST /submitapply HTTP/1.1" 500 71448
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:06:38
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:08:56] "GET /apply HTTP/1.1" 200 10147
+[30/Mar/2017 09:09:01] "POST /submitapply HTTP/1.1" 200 10159
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:08:46
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:13:40] "GET /apply HTTP/1.1" 200 10147
+[30/Mar/2017 09:13:51] "POST /submitapply HTTP/1.1" 500 71439
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:13:32
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:14:35] "POST /submitapply HTTP/1.1" 500 71439
+[30/Mar/2017 09:19:41] "POST /submitapply HTTP/1.1" 500 71439
+[30/Mar/2017 09:19:44] "POST /submitapply HTTP/1.1" 500 71439
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:14:02
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:20:34] "POST /submitapply HTTP/1.1" 500 71608
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:20:29
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:21:21] "POST /submitapply HTTP/1.1" 200 10219
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:21:18
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:22:50] "POST /submitapply HTTP/1.1" 200 10262
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:21:39
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:27:44] "POST /submitapply HTTP/1.1" 200 10217
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:27:35
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:28:20] "POST /submitapply HTTP/1.1" 200 10201
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:28:06
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:28:49] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 09:28:59] "POST /submitapply HTTP/1.1" 200 10169
+[30/Mar/2017 09:29:26] "POST /submitapply HTTP/1.1" 200 10169
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:28:45
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:29:53] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 09:30:03] "POST /submitapply HTTP/1.1" 200 10201
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:29:46
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:39:04] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 09:39:13] "POST /submitapply HTTP/1.1" 500 72566
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:38:54
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 09:43:45] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 09:43:55] "POST /submitapply HTTP/1.1" 200 10201
+Validating models...
+
+0 errors found
+March 30, 2017 - 09:43:38
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 10:17:13] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 10:17:20] "POST /submitapply HTTP/1.1" 500 72053
+[30/Mar/2017 10:17:32] "POST /submitapply HTTP/1.1" 200 10202
+[30/Mar/2017 10:18:52] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 10:19:09] "POST /submitapply HTTP/1.1" 200 10197
+Validating models...
+
+0 errors found
+March 30, 2017 - 10:17:07
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 10:38:28] "GET /apply HTTP/1.1" 200 10177
+Validating models...
+
+0 errors found
+March 30, 2017 - 10:38:23
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 10:39:16] "POST /submitapply HTTP/1.1" 500 72518
+Validating models...
+
+0 errors found
+March 30, 2017 - 10:39:08
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 10:40:33] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 10:40:44] "POST /submitapply HTTP/1.1" 200 10228
+Validating models...
+
+0 errors found
+March 30, 2017 - 10:39:54
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 10:51:44] "GET /apply HTTP/1.1" 500 86828
+[30/Mar/2017 10:52:15] "GET /apply HTTP/1.1" 500 87069
+[30/Mar/2017 10:52:37] "GET /apply HTTP/1.1" 500 86828
+[30/Mar/2017 10:56:12] "GET /apply HTTP/1.1" 200 10177
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-30 10:56:24) while time zone support is active.
+  RuntimeWarning)
+
+[30/Mar/2017 10:56:24] "POST /submitapply HTTP/1.1" 500 73260
+Validating models...
+
+0 errors found
+March 30, 2017 - 10:43:52
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 10:57:18] "GET /apply HTTP/1.1" 500 86810
+[30/Mar/2017 10:57:49] "GET /apply HTTP/1.1" 200 10177
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-30 10:58:00) while time zone support is active.
+  RuntimeWarning)
+
+[30/Mar/2017 10:58:00] "POST /submitapply HTTP/1.1" 500 77684
+Validating models...
+
+0 errors found
+March 30, 2017 - 10:57:08
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 11:05:46] "GET /apply HTTP/1.1" 200 10177
+[30/Mar/2017 11:06:11] "POST /submitapply HTTP/1.1" 500 130931
+Validating models...
+
+0 errors found
+March 30, 2017 - 11:05:42
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[30/Mar/2017 12:52:58] "GET / HTTP/1.1" 200 10177
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-30 12:53:16) while time zone support is active.
+  RuntimeWarning)
+
+[30/Mar/2017 12:53:16] "POST /submitapply HTTP/1.1" 200 10227
+[31/Mar/2017 02:04:20] "GET / HTTP/1.1" 200 10177
+[31/Mar/2017 02:04:27] "POST /submitapply HTTP/1.1" 500 71699
+[31/Mar/2017 02:10:32] "GET /apply HTTP/1.1" 200 10177
+[31/Mar/2017 02:10:35] "POST /submitapply HTTP/1.1" 500 71719
+[31/Mar/2017 02:10:47] "GET /apply HTTP/1.1" 200 10190
+[31/Mar/2017 02:12:17] "GET /apply HTTP/1.1" 200 10197
+[31/Mar/2017 02:12:47] "GET /apply HTTP/1.1" 200 10193
+Validating models...
+
+0 errors found
+March 30, 2017 - 11:06:28
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 02:29:53] "GET /apply HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:30:01) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 02:30:01] "POST /submitapply HTTP/1.1" 200 10236
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:32:23) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 02:32:23] "POST /submitapply HTTP/1.1" 200 10289
+[31/Mar/2017 02:36:20] "GET /apply HTTP/1.1" 200 10213
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:36:36) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 02:36:36] "POST /submitapply HTTP/1.1" 200 10210
+[31/Mar/2017 02:36:36] "POST /apply HTTP/1.1" 200 10213
+Validating models...
+
+0 errors found
+March 31, 2017 - 02:29:20
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 02:43:41] "GET /apply HTTP/1.1" 200 10260
+[31/Mar/2017 02:43:59] "POST /apply HTTP/1.1" 200 10260
+[31/Mar/2017 02:45:07] "POST /apply HTTP/1.1" 200 10262
+[31/Mar/2017 02:45:11] "GET /apply HTTP/1.1" 200 10262
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:45:54) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 02:45:54] "POST /apply HTTP/1.1" 200 10262
+[31/Mar/2017 02:45:54] "POST /submitapply HTTP/1.1" 200 19
+[31/Mar/2017 02:47:22] "GET /apply HTTP/1.1" 200 10262
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:47:36) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 02:47:36] "POST /submitapply HTTP/1.1" 200 19
+[31/Mar/2017 02:47:37] "POST /apply HTTP/1.1" 200 10262
+Validating models...
+
+0 errors found
+March 31, 2017 - 02:41:48
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 02:50:57] "GET /apply HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:51:20) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 02:51:20] "POST /submitapply HTTP/1.1" 200 10303
+Validating models...
+
+0 errors found
+March 31, 2017 - 02:49:59
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 02:54:25] "GET / HTTP/1.1" 200 10239
+[31/Mar/2017 02:54:32] "GET / HTTP/1.1" 200 10239
+[31/Mar/2017 02:54:34] "GET / HTTP/1.1" 200 10239
+[31/Mar/2017 02:54:38] "GET / HTTP/1.1" 200 10239
+[31/Mar/2017 02:54:39] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/wow.min.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/Chart.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /css/animate.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /css/style.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/classie.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/scripts.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/uisearch.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[31/Mar/2017 02:54:39] "GET /images/1.jpg HTTP/1.1" 304 0
+[31/Mar/2017 02:54:39] "GET /images/search.png HTTP/1.1" 304 0
+[31/Mar/2017 02:54:42] "GET / HTTP/1.1" 200 10239
+[31/Mar/2017 02:54:43] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /css/style.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/Chart.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /css/animate.css HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/wow.min.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/uisearch.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/classie.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/scripts.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[31/Mar/2017 02:54:43] "GET /images/search.png HTTP/1.1" 304 0
+[31/Mar/2017 02:54:43] "GET /images/1.jpg HTTP/1.1" 304 0
+[31/Mar/2017 02:56:09] "GET /person HTTP/1.1" 200 11510
+[31/Mar/2017 02:56:14] "GET /person HTTP/1.1" 200 11510
+[31/Mar/2017 02:56:20] "GET /person HTTP/1.1" 200 11510
+[31/Mar/2017 03:04:52] "GET /per_pass HTTP/1.1" 200 7826
+[31/Mar/2017 03:05:30] "GET /per_nopass HTTP/1.1" 200 8173
+[31/Mar/2017 03:06:29] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 03:06:51] "GET /per_pass HTTP/1.1" 200 7826
+[31/Mar/2017 03:06:56] "GET /per_nopass HTTP/1.1" 200 8173
+[31/Mar/2017 03:09:59] "GET /person HTTP/1.1" 200 11510
+Validating models...
+
+0 errors found
+March 31, 2017 - 02:53:58
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 05:48:12] "GET /person HTTP/1.1" 500 87285
+[31/Mar/2017 05:52:31] "GET /person HTTP/1.1" 500 87285
+[31/Mar/2017 05:53:23] "GET /person HTTP/1.1" 500 67852
+Validating models...
+
+0 errors found
+March 31, 2017 - 03:15:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 05:53:38] "GET /person HTTP/1.1" 500 69416
+Validating models...
+
+0 errors found
+March 31, 2017 - 05:53:36
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fe2c06df6e0>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 33, in <module>
+    class DeadUserSiteCenter(models.Model):
+  File "/home/work/dead_workspace/dead_app/models.py", line 35, in DeadUserSiteCenter
+    dus_user_name = models.ForeignKey(DeadUseri,related_name="deadusersite")
+NameError: name 'DeadUseri' is not defined
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:07:19] "GET /person HTTP/1.1" 500 69416
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:01:51
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:08:22] "GET /person HTTP/1.1" 500 74682
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:08:08
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:10:32] "GET /person HTTP/1.1" 500 69960
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:10:27
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:11:27] "GET /person HTTP/1.1" 200 11271
+[31/Mar/2017 06:11:41] "GET /images/img-sprite.png HTTP/1.1" 404 1700
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:11:21
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:12:49] "GET /person HTTP/1.1" 500 72444
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:12:48
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:12:59] "GET /person HTTP/1.1" 500 72462
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:12:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:13:20] "GET /person HTTP/1.1" 200 13194
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:13:16
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:31:49] "GET /person HTTP/1.1" 500 69323
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:30:21
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 06:32:18] "GET /person HTTP/1.1" 200 11271
+[31/Mar/2017 06:33:09] "GET /person HTTP/1.1" 200 13194
+[31/Mar/2017 06:34:51] "GET /person HTTP/1.1" 200 12938
+[31/Mar/2017 06:41:08] "GET /person HTTP/1.1" 500 195723
+[31/Mar/2017 06:41:33] "GET /person HTTP/1.1" 200 12963
+[31/Mar/2017 06:41:45] "GET /images/img-sprite.png HTTP/1.1" 404 1700
+[31/Mar/2017 06:41:47] "GET /person? HTTP/1.1" 200 12963
+[31/Mar/2017 06:45:39] "GET /person? HTTP/1.1" 200 12929
+[31/Mar/2017 06:49:12] "GET /person HTTP/1.1" 200 12929
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:32:17
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 07:07:20] "GET /person HTTP/1.1" 200 13358
+[31/Mar/2017 07:08:00] "GET /person HTTP/1.1" 200 13335
+[31/Mar/2017 07:09:56] "GET /person HTTP/1.1" 200 13342
+[31/Mar/2017 07:11:54] "GET /person HTTP/1.1" 200 13288
+Validating models...
+
+0 errors found
+March 31, 2017 - 06:56:59
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 07:26:29] "GET /per_pass HTTP/1.1" 200 7826
+[31/Mar/2017 07:26:41] "GET /per_nopass HTTP/1.1" 200 8173
+[31/Mar/2017 07:26:47] "GET /per_pass HTTP/1.1" 200 7826
+Validating models...
+
+0 errors found
+March 31, 2017 - 07:14:25
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 07:39:29] "GET /person HTTP/1.1" 200 13288
+[31/Mar/2017 07:57:51] "GET /per_detail?du_id=4 HTTP/1.1" 200 7881
+[31/Mar/2017 07:58:11] "GET /per_pass HTTP/1.1" 200 7825
+Validating models...
+
+0 errors found
+March 31, 2017 - 07:39:21
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 08:04:02] "GET /per_detail?du_id=4 HTTP/1.1" 200 7876
+[31/Mar/2017 08:05:00] "GET /per_detail?du_id=4 HTTP/1.1" 200 7882
+[31/Mar/2017 08:05:31] "GET /per_detail?du_id=4 HTTP/1.1" 200 7872
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 08:18:50] "GET /person HTTP/1.1" 200 13288
+[31/Mar/2017 08:19:19] "GET /person HTTP/1.1" 200 13265
+[31/Mar/2017 08:19:23] "GET /per_detail?du_id=4 HTTP/1.1" 500 192025
+[31/Mar/2017 08:19:50] "GET /per_detail?du_id=4 HTTP/1.1" 200 7780
+[31/Mar/2017 08:19:54] "GET /per_detail?du_id=4 HTTP/1.1" 200 7780
+[31/Mar/2017 08:20:15] "GET /per_detail?du_id=3 HTTP/1.1" 200 8095
+[31/Mar/2017 08:22:31] "GET /per_nopass HTTP/1.1" 200 8173
+[31/Mar/2017 08:23:23] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 08:23:26] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 08:23:27] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 08:27:00] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 08:27:28] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 08:31:17] "GET /per_nopass? HTTP/1.1" 200 8173
+[31/Mar/2017 08:31:39] "GET /per_detail?du_id=3 HTTP/1.1" 200 8095
+[31/Mar/2017 08:31:55] "GET /per_detail?du_id=6 HTTP/1.1" 200 8339
+[31/Mar/2017 08:32:18] "GET /per_detail?du_id=6 HTTP/1.1" 200 8339
+[31/Mar/2017 08:38:42] "GET /per_detail?du_id=6 HTTP/1.1" 200 8060
+[31/Mar/2017 08:39:25] "GET /per_detail?du_id=6 HTTP/1.1" 500 185433
+[31/Mar/2017 08:39:42] "GET /per_detail?du_id=6 HTTP/1.1" 200 8228
+[31/Mar/2017 08:39:44] "GET /per_detail?du_id=6 HTTP/1.1" 200 8228
+[31/Mar/2017 08:45:48] "GET /per_detail?du_id=6 HTTP/1.1" 200 8916
+[31/Mar/2017 08:46:20] "GET /per_detail?du_id=6 HTTP/1.1" 200 8916
+[31/Mar/2017 08:46:47] "GET /per_detail?du_id=6 HTTP/1.1" 200 8916
+[31/Mar/2017 08:46:59] "GET /per_detail?du_id=6 HTTP/1.1" 200 8916
+[31/Mar/2017 08:50:07] "GET /per_detail?du_id=6 HTTP/1.1" 200 8849
+[31/Mar/2017 08:50:42] "GET /per_detail?du_id=6 HTTP/1.1" 200 8849
+[31/Mar/2017 08:50:45] "GET /per_detail?du_id=6 HTTP/1.1" 200 8849
+[31/Mar/2017 08:50:48] "GET /per_detail?du_id=5 HTTP/1.1" 200 9215
+[31/Mar/2017 08:53:57] "GET /per_detail?du_id=5 HTTP/1.1" 200 9279
+[31/Mar/2017 08:55:03] "GET /per_detail?du_id=9 HTTP/1.1" 200 9413
+Validating models...
+
+0 errors found
+March 31, 2017 - 07:59:20
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 08:58:41] "GET /person HTTP/1.1" 200 13362
+[31/Mar/2017 08:59:10] "GET /person HTTP/1.1" 200 13380
+[31/Mar/2017 08:59:15] "GET /person HTTP/1.1" 200 13380
+[31/Mar/2017 08:59:44] "GET /person HTTP/1.1" 200 13380
+[31/Mar/2017 08:59:46] "GET /per_detail?du_id=3 HTTP/1.1" 200 8095
+[31/Mar/2017 08:59:52] "GET /per_detail?du_id=3 HTTP/1.1" 200 8095
+[31/Mar/2017 08:59:55] "GET /per_detail?du_id=4 HTTP/1.1" 200 7780
+[31/Mar/2017 09:00:00] "GET /per_detail?du_id=3 HTTP/1.1" 200 8095
+[31/Mar/2017 09:16:07] "GET /person HTTP/1.1" 200 13720
+[31/Mar/2017 09:16:12] "GET /per_detail?du_id= HTTP/1.1" 500 117006
+[31/Mar/2017 09:16:21] "GET /per_detail?du_id= HTTP/1.1" 500 117006
+[31/Mar/2017 09:16:24] "GET /per_detail?du_id=3 HTTP/1.1" 200 8095
+[31/Mar/2017 09:17:15] "GET /person HTTP/1.1" 200 13725
+[31/Mar/2017 09:17:17] "GET /per_detail?du_id=5 HTTP/1.1" 200 9279
+[31/Mar/2017 09:17:22] "GET /per_detail?du_id=7 HTTP/1.1" 200 9004
+[31/Mar/2017 09:17:28] "GET /per_detail?du_id=9 HTTP/1.1" 200 9413
+[31/Mar/2017 09:17:33] "GET /per_detail?du_id=9 HTTP/1.1" 200 9413
+[31/Mar/2017 09:19:17] "GET /person HTTP/1.1" 200 13817
+[31/Mar/2017 09:19:26] "GET /person HTTP/1.1" 200 13725
+[31/Mar/2017 09:19:43] "GET /per_detail?du_id=9 HTTP/1.1" 200 9413
+[31/Mar/2017 09:20:41] "GET /per_detail?du_id=7 HTTP/1.1" 200 9004
+[31/Mar/2017 09:26:42] "GET /person HTTP/1.1" 200 13824
+[31/Mar/2017 09:27:12] "GET /person HTTP/1.1" 200 13860
+Validating models...
+
+0 errors found
+March 31, 2017 - 08:56:39
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 09:52:59] "GET /person HTTP/1.1" 200 10510
+[31/Mar/2017 09:53:16] "GET /person HTTP/1.1" 200 10510
+[31/Mar/2017 09:54:16] "GET /person HTTP/1.1" 200 10521
+[31/Mar/2017 09:56:31] "GET /person HTTP/1.1" 200 10528
+[31/Mar/2017 09:57:06] "GET /person HTTP/1.1" 200 10528
+[31/Mar/2017 09:58:03] "GET /person HTTP/1.1" 200 10529
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:45:54) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 09:58:06] "GET /approve?du_id=7 HTTP/1.1" 200 21
+[31/Mar/2017 09:58:20] "GET /person HTTP/1.1" 200 10324
+[31/Mar/2017 10:09:04] "GET /person HTTP/1.1" 200 11240
+Validating models...
+
+0 errors found
+March 31, 2017 - 09:35:20
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 10:19:16] "GET /person HTTP/1.1" 500 86818
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 10:19:42] "GET /person HTTP/1.1" 200 11286
+[31/Mar/2017 10:20:17] "GET /person HTTP/1.1" 200 11286
+[31/Mar/2017 10:21:34] "GET /person HTTP/1.1" 200 11281
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:47:36) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 10:21:44] "GET /approve?du_id=8&flag=0 HTTP/1.1" 200 21
+[31/Mar/2017 10:21:47] "GET /person HTTP/1.1" 200 10602
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:51:20) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 10:21:54] "GET /approve?du_id=9&flag=1 HTTP/1.1" 200 21
+[31/Mar/2017 10:21:57] "GET /person HTTP/1.1" 200 9923
+[31/Mar/2017 10:22:32] "GET /person HTTP/1.1" 200 14676
+[31/Mar/2017 10:22:38] "GET /per_detail?du_id=3 HTTP/1.1" 200 9370
+[31/Mar/2017 10:22:48] "GET /images/img-sprite.png HTTP/1.1" 404 1700
+[31/Mar/2017 10:22:53] "GET /person? HTTP/1.1" 200 14676
+[31/Mar/2017 10:24:23] "GET /submit HTTP/1.1" 200 7693
+[31/Mar/2017 10:24:24] "GET /apply HTTP/1.1" 200 10239
+Validating models...
+
+0 errors found
+March 31, 2017 - 10:19:02
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 11:07:04] "GET /apply HTTP/1.1" 200 10239
+[31/Mar/2017 11:07:08] "GET /per_detail?du_id=9 HTTP/1.1" 200 9413
+[31/Mar/2017 11:07:10] "GET /submit HTTP/1.1" 200 7693
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:07:12] "GET /person HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:23] "GET /per_search?searchkey=aa HTTP/1.1" 200 10056
+[31/Mar/2017 11:07:28] "GET /per_search?searchkey=bb HTTP/1.1" 200 9040
+[31/Mar/2017 11:07:31] "GET /per_search?searchkey=bb HTTP/1.1" 200 9040
+[31/Mar/2017 11:07:32] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:36] "GET /per_search?searchkey=ee HTTP/1.1" 200 9041
+[31/Mar/2017 11:07:38] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:39] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:40] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:40] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:41] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:57] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:57] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:58] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:59] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:59] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:07:59] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:00] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:00] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:00] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:01] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:01] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:02] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:02] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+[31/Mar/2017 11:08:07] "GET /per_search?searchkey=a HTTP/1.1" 200 10056
+Validating models...
+
+0 errors found
+March 31, 2017 - 11:03:11
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[31/Mar/2017 11:08:49] "GET /per_search?searchkey=a HTTP/1.1" 200 10056
+[31/Mar/2017 11:08:51] "GET /per_search?searchkey= HTTP/1.1" 200 15033
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:08:54] "GET /person HTTP/1.1" 200 15033
+Validating models...
+
+0 errors found
+March 31, 2017 - 11:08:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:11:10] "GET /person HTTP/1.1" 200 15033
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-30 12:53:16) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-03-31 19:11:16) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:11:16] "GET /approve?du_id=3&flag=0 HTTP/1.1" 200 21
+[31/Mar/2017 11:11:19] "GET /person HTTP/1.1" 200 14354
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:30:01) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-03-31 19:12:18) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:12:18] "GET /approve?du_id=4&flag=1 HTTP/1.1" 200 21
+[31/Mar/2017 11:12:23] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:47] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:47] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:47] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:48] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:48] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:48] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:48] "GET /person HTTP/1.1" 200 13729
+[31/Mar/2017 11:12:49] "GET /person HTTP/1.1" 200 13729
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:32:23) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-03-31 19:12:55) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:12:55] "GET /approve?du_id=5&flag=1 HTTP/1.1" 200 21
+[31/Mar/2017 11:12:56] "GET /person HTTP/1.1" 200 13050
+[31/Mar/2017 11:13:04] "GET /per_detail?du_id=4 HTTP/1.1" 200 7780
+[31/Mar/2017 11:15:45] "GET /per_detail?du_id=6 HTTP/1.1" 200 9004
+[31/Mar/2017 11:16:30] "GET /per_detail? HTTP/1.1" 500 74991
+[31/Mar/2017 11:16:37] "GET /per_detail? HTTP/1.1" 500 74991
+[31/Mar/2017 11:16:43] "GET /per_detail? HTTP/1.1" 500 74991
+[31/Mar/2017 11:17:50] "GET /per_detail?du_id=6 HTTP/1.1" 200 9004
+Validating models...
+
+0 errors found
+March 31, 2017 - 11:11:03
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:32:40] "GET /person HTTP/1.1" 200 11741
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-30 12:53:16) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-03-31 11:32:45) while time zone support is active.
+  RuntimeWarning)
+
+[31/Mar/2017 11:32:45] "GET /approve?du_id=3&flag=1 HTTP/1.1" 200 21
+[31/Mar/2017 11:32:46] "GET /person HTTP/1.1" 200 11540
+Validating models...
+
+0 errors found
+March 31, 2017 - 11:32:31
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[01/Apr/2017 02:08:07] "GET / HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[01/Apr/2017 02:13:04] "GET /person HTTP/1.1" 200 11540
+Validating models...
+
+0 errors found
+March 31, 2017 - 11:33:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[01/Apr/2017 02:18:00] "GET /per_search?searchkey=aa HTTP/1.1" 200 8953
+[01/Apr/2017 02:18:22] "GET /person?du_id=4 HTTP/1.1" 200 8616
+Validating models...
+
+0 errors found
+April 01, 2017 - 02:17:19
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[01/Apr/2017 02:46:16] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:16] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[01/Apr/2017 02:46:16] "GET /css/style.css HTTP/1.1" 304 0
+[01/Apr/2017 02:46:16] "GET /css/animate.css HTTP/1.1" 304 0
+[01/Apr/2017 02:46:16] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[01/Apr/2017 02:46:16] "GET /js/Chart.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/wow.min.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/classie.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/uisearch.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/scripts.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /images/search.png HTTP/1.1" 304 0
+[01/Apr/2017 02:46:17] "GET /images/1.jpg HTTP/1.1" 304 0
+[01/Apr/2017 02:46:18] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:18] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:19] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:20] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:21] "GET /submit HTTP/1.1" 200 7693
+[01/Apr/2017 02:46:22] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:24] "GET /submit HTTP/1.1" 200 7693
+[01/Apr/2017 02:46:26] "GET /apply HTTP/1.1" 200 10239
+[01/Apr/2017 02:46:27] "GET /submit HTTP/1.1" 200 7693
+[01/Apr/2017 02:46:28] "GET /hisjob HTTP/1.1" 200 7104
+[01/Apr/2017 02:46:30] "GET /detailjob HTTP/1.1" 200 8730
+[01/Apr/2017 02:46:32] "GET /apply HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-01 10:47:24) while time zone support is active.
+  RuntimeWarning)
+
+[01/Apr/2017 02:47:24] "POST /submitapply HTTP/1.1" 500 74819
+Validating models...
+
+0 errors found
+April 01, 2017 - 02:46:16
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[01/Apr/2017 02:48:49] "GET /apply HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-01 10:49:06) while time zone support is active.
+  RuntimeWarning)
+
+[01/Apr/2017 02:49:06] "POST /submitapply HTTP/1.1" 200 10290
+[01/Apr/2017 02:49:34] "GET /person?du_id=11 HTTP/1.1" 200 8659
+[01/Apr/2017 02:49:34] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[01/Apr/2017 02:49:44] "GET /person HTTP/1.1" 200 12082
+Validating models...
+
+0 errors found
+April 01, 2017 - 02:48:41
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[01/Apr/2017 03:26:28] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:31] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:31] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:32] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:32] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:32] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:32] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:33] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:26:34] "GET /person HTTP/1.1" 200 12556
+[01/Apr/2017 03:27:10] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:27:11] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:27:12] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:27:12] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:27:13] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:27:13] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:27:30] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:28:25] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:29:21] "GET /person HTTP/1.1" 200 12583
+[01/Apr/2017 03:29:46] "GET /person HTTP/1.1" 200 12587
+[01/Apr/2017 03:30:05] "GET /person HTTP/1.1" 200 12587
+[01/Apr/2017 03:32:16] "GET /person HTTP/1.1" 200 12583
+[01/Apr/2017 03:32:17] "GET /person HTTP/1.1" 200 12583
+[01/Apr/2017 03:32:18] "GET /person HTTP/1.1" 200 12583
+[01/Apr/2017 03:32:19] "GET /person HTTP/1.1" 200 12583
+[01/Apr/2017 03:32:19] "GET /person HTTP/1.1" 200 12583
+[01/Apr/2017 03:32:20] "GET /person HTTP/1.1" 200 12583
+Validating models...
+
+0 errors found
+April 01, 2017 - 03:00:29
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[01/Apr/2017 03:32:32] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:32:36] "GET /person HTTP/1.1" 200 12582
+[01/Apr/2017 03:33:01] "GET /person HTTP/1.1" 200 12586
+[01/Apr/2017 03:33:44] "GET /person HTTP/1.1" 200 12586
+[01/Apr/2017 03:34:34] "GET /person HTTP/1.1" 200 12595
+[01/Apr/2017 03:35:37] "GET /person HTTP/1.1" 200 12595
+[01/Apr/2017 03:36:00] "GET /person HTTP/1.1" 200 12602
+[01/Apr/2017 03:36:04] "GET /person HTTP/1.1" 200 12602
+[01/Apr/2017 03:36:08] "GET /person HTTP/1.1" 200 12602
+[01/Apr/2017 09:23:29] "GET / HTTP/1.1" 500 114435
+/home/work/dead_workspace/dead_app/dead_process/user_control.py:26: DeprecationWarning: django.utils.simplejson is deprecated; use json instead.
+  from django.utils.simplejson import dumps
+
+[01/Apr/2017 09:23:52] "GET / HTTP/1.1" 500 123383
+[01/Apr/2017 09:24:01] "GET / HTTP/1.1" 500 123707
+[01/Apr/2017 09:24:11] "GET / HTTP/1.1" 500 98390
+Validating models...
+
+0 errors found
+April 01, 2017 - 03:32:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ([01/Apr/2017 09:24:57] "GET / HTTP/1.1" 302 0
+[01/Apr/2017 09:24:57] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[01/Apr/2017 09:25:10] "GET /accounts/login/?next=%2F&ticket=ST-65995-nynhMhlemcMyCghiZo9J-uuap HTTP/1.1" 302 0
+[01/Apr/2017 09:25:10] "GET / HTTP/1.1" 200 10241
+[01/Apr/2017 09:25:10] "GET /css/animate.css HTTP/1.1" 200 70196
+[01/Apr/2017 09:25:10] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[01/Apr/2017 09:25:10] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[01/Apr/2017 09:25:10] "GET /css/style.css HTTP/1.1" 200 141729
+[01/Apr/2017 09:25:10] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[01/Apr/2017 09:25:10] "GET /js/Chart.js HTTP/1.1" 200 44471
+[01/Apr/2017 09:25:10] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[01/Apr/2017 09:25:10] "GET /js/classie.js HTTP/1.1" 200 1835
+[01/Apr/2017 09:25:10] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[01/Apr/2017 09:25:10] "GET /js/scripts.js HTTP/1.1" 200 4435
+[01/Apr/2017 09:25:10] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[01/Apr/2017 09:25:10] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[01/Apr/2017 09:25:10] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[01/Apr/2017 09:25:10] "GET /images/search.png HTTP/1.1" 200 3030
+[01/Apr/2017 09:25:10] "GET /images/1.jpg HTTP/1.1" 200 13741
+Validating models...
+
+0 errors found
+April 01, 2017 - 09:24:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 01:00:15] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 01:00:15] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[03/Apr/2017 01:00:21] "GET /apply HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 01:00:24] "GET /person HTTP/1.1" 200 12604
+[03/Apr/2017 01:00:34] "GET /per_detail?du_id=4 HTTP/1.1" 200 9004
+Validating models...
+
+0 errors found
+April 01, 2017 - 09:25:50
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 01:07:02] "GET /person HTTP/1.1" 200 12604
+Validating models...
+
+0 errors found
+April 03, 2017 - 01:05:00
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 01:38:16] "GET /person HTTP/1.1" 200 12604
+[03/Apr/2017 01:38:18] "GET /per_detail?du_id=4 HTTP/1.1" 200 9836
+[03/Apr/2017 01:38:23] "GET /per_detail? HTTP/1.1" 500 75048
+[03/Apr/2017 01:41:26] "GET /per_detail?du_id=4 HTTP/1.1" 200 9845
+[03/Apr/2017 01:41:28] "GET /per_detail? HTTP/1.1" 500 75048
+[03/Apr/2017 01:44:50] "GET /per_detail? HTTP/1.1" 500 75342
+[03/Apr/2017 01:45:02] "GET /per_detail?du_id=4 HTTP/1.1" 200 9918
+[03/Apr/2017 01:45:10] "GET /per_detail? HTTP/1.1" 500 75048
+[03/Apr/2017 01:48:25] "GET /per_detail? HTTP/1.1" 500 75048
+Validating models...
+
+0 errors found
+April 03, 2017 - 01:32:20
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 01:51:41] "GET /per_detail? HTTP/1.1" 500 75048
+[03/Apr/2017 01:52:58] "GET / HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 01:53:02] "GET /person HTTP/1.1" 200 12604
+[03/Apr/2017 01:53:04] "GET /per_detail?du_id=4 HTTP/1.1" 200 9933
+[03/Apr/2017 01:55:01] "POST /cancel_approve HTTP/1.1" 200 28
+[03/Apr/2017 01:55:02] "GET /per_detail? HTTP/1.1" 500 75013
+[03/Apr/2017 01:55:18] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 01:55:21] "GET /person HTTP/1.1" 200 12085
+Validating models...
+
+0 errors found
+April 03, 2017 - 01:51:34
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ([03/Apr/2017 01:56:38] "GET /per_detail?du_id=5 HTTP/1.1" 200 10299
+[03/Apr/2017 01:56:38] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /css/animate.css HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/Chart.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /css/style.css HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/wow.min.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/uisearch.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/classie.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/scripts.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /images/search.png HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[03/Apr/2017 01:56:38] "GET /images/1.jpg HTTP/1.1" 304 0
+[03/Apr/2017 01:56:41] "GET /per_detail?du_id=5 HTTP/1.1" 200 10299
+[03/Apr/2017 01:56:55] "POST /cancel_approve HTTP/1.1" 200 28
+[03/Apr/2017 01:56:55] "GET /per_detail? HTTP/1.1" 500 74987
+[03/Apr/2017 02:02:57] "GET /per_detail?du_id=5 HTTP/1.1" 500 75683
+[03/Apr/2017 02:03:00] "GET /per_detail?du_id=5 HTTP/1.1" 500 75683
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 02:03:05] "GET /person HTTP/1.1" 200 11527
+[03/Apr/2017 02:03:30] "GET /per_detail?du_id=3 HTTP/1.1" 200 8943
+[03/Apr/2017 02:03:34] "GET /per_detail?du_id=4 HTTP/1.1" 500 74979
+Validating models...
+
+0 errors found
+April 03, 2017 - 01:56:37
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 02:07:18] "GET /per_detail?du_id=4 HTTP/1.1" 500 75206
+[03/Apr/2017 02:07:19] "GET /per_detail?du_id=4 HTTP/1.1" 500 75206
+[03/Apr/2017 02:07:20] "GET /per_detail?du_id=4 HTTP/1.1" 500 75206
+[03/Apr/2017 02:07:21] "GET /per_detail?du_id=4 HTTP/1.1" 500 75206
+[03/Apr/2017 02:07:21] "GET /per_detail?du_id=4 HTTP/1.1" 500 75206
+[03/Apr/2017 02:08:17] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 02:08:27] "GET /per_detail?du_id=3 HTTP/1.1" 200 8943
+[03/Apr/2017 02:08:31] "GET /per_detail?du_id=4 HTTP/1.1" 500 74912
+[03/Apr/2017 02:09:05] "GET / HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 02:09:08] "GET /person HTTP/1.1" 200 11527
+[03/Apr/2017 02:09:13] "GET /per_search?searchkey=aaaaa HTTP/1.1" 200 8473
+[03/Apr/2017 02:17:10] "GET /per_search?searchkey= HTTP/1.1" 200 11501
+[03/Apr/2017 02:17:13] "GET /per_detail?du_id=6 HTTP/1.1" 200 10026
+[03/Apr/2017 02:17:16] "POST /cancel_approve HTTP/1.1" 200 28
+[03/Apr/2017 02:17:16] "GET /per_detail?du_id=6 HTTP/1.1" 500 75335
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:07:18
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 02:19:54] "GET /per_search?searchkey= HTTP/1.1" 200 10982
+[03/Apr/2017 02:19:57] "GET /per_detail?du_id=7 HTTP/1.1" 500 68507
+[03/Apr/2017 02:20:32] "GET /per_search?searchkey= HTTP/1.1" 200 10982
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 02:20:34] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:20:37] "GET /per_detail?du_id=7 HTTP/1.1" 500 68447
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:19:19
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 02:26:03] "GET /per_detail?du_id=7 HTTP/1.1" 200 10026
+[03/Apr/2017 02:26:13] "GET /per_detail?du_id=4 HTTP/1.1" 500 67965
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:21:27
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 02:26:38] "GET /per_detail?du_id=4 HTTP/1.1" 500 68155
+[03/Apr/2017 02:26:40] "GET /per_detail?du_id=4 HTTP/1.1" 500 68155
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:26:38
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 02:27:16] "GET /per_detail?du_id=4 HTTP/1.1" 200 9875
+[03/Apr/2017 02:27:16] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /css/animate.css HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/Chart.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /css/style.css HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/wow.min.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/uisearch.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/classie.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/scripts.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /images/1.jpg HTTP/1.1" 304 0
+[03/Apr/2017 02:27:16] "GET /images/search.png HTTP/1.1" 304 0
+[03/Apr/2017 02:27:22] "GET /per_detail?du_id=4 HTTP/1.1" 200 9875
+[03/Apr/2017 02:27:33] "GET /per_detail?du_id=4 HTTP/1.1" 200 9875
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:27:16
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 02:42:09] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:42:09] "GET /css/style.css HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /css/animate.css HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/Chart.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/wow.min.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/classie.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/uisearch.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/scripts.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /images/search.png HTTP/1.1" 304 0
+[03/Apr/2017 02:42:09] "GET /images/1.jpg HTTP/1.1" 304 0
+[03/Apr/2017 02:42:19] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 02:42:21] "GET /per_detail?du_id=4 HTTP/1.1" 500 194306
+[03/Apr/2017 02:44:11] "GET /per_detail?du_id=4 HTTP/1.1" 200 10077
+[03/Apr/2017 02:45:06] "GET /per_detail?du_id=4 HTTP/1.1" 200 10083
+[03/Apr/2017 02:45:51] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:45:53] "GET /per_detail?du_id=7 HTTP/1.1" 200 10391
+[03/Apr/2017 02:46:06] "POST /cancel_approve HTTP/1.1" 200 18
+[03/Apr/2017 02:46:06] "GET /per_detail?du_id=7 HTTP/1.1" 200 10391
+[03/Apr/2017 02:46:52] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:46:53] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:46:54] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:46:56] "GET /per_detail?du_id=7 HTTP/1.1" 200 10391
+[03/Apr/2017 02:46:58] "POST /cancel_approve HTTP/1.1" 200 18
+[03/Apr/2017 02:46:58] "GET /per_detail?du_id=7 HTTP/1.1" 200 10391
+[03/Apr/2017 02:50:06] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:50:36] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 02:50:38] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:50:46] "GET /per_detail?du_id=3 HTTP/1.1" 200 9232
+[03/Apr/2017 02:51:01] "GET /per_detail?du_id=7 HTTP/1.1" 200 10398
+[03/Apr/2017 02:51:07] "POST /cancel_approve HTTP/1.1" 200 18
+[03/Apr/2017 02:51:07] "GET /per_detail? HTTP/1.1" 200 10090
+[03/Apr/2017 02:51:23] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:51:24] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:51:24] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:51:25] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:52:20] "GET /person HTTP/1.1" 200 11008
+[03/Apr/2017 02:52:21] "GET /per_detail?du_id=7 HTTP/1.1" 200 10390
+[03/Apr/2017 02:52:24] "GET /cancel_approve?du_id=7 HTTP/1.1" 200 21
+[03/Apr/2017 02:52:24] "GET /per_detail?du_id=7 HTTP/1.1" 200 10082
+[03/Apr/2017 02:53:50] "GET /person HTTP/1.1" 200 10489
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:42:08
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 03:00:01] "GET /person HTTP/1.1" 200 10755
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:47:36) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-03 11:00:13) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 03:00:13] "GET /approve?du_id=8&flag=1 HTTP/1.1" 200 21
+[03/Apr/2017 03:00:15] "GET /person HTTP/1.1" 200 10534
+[03/Apr/2017 03:00:49] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 03:00:54] "GET /person HTTP/1.1" 200 10534
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-31 02:51:20) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-03 11:00:57) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 03:00:57] "GET /approve?du_id=9&flag=0 HTTP/1.1" 200 21
+[03/Apr/2017 03:00:58] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 03:01:15] "GET /per_detail?du_id=9 HTTP/1.1" 200 10441
+Validating models...
+
+0 errors found
+April 03, 2017 - 02:57:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 03:18:12] "GET /per_detail?du_id=9 HTTP/1.1" 200 11466
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 03:18:16] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 03:18:22] "GET /per_detail?du_id=11 HTTP/1.1" 200 11785
+[03/Apr/2017 03:19:05] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:19:06] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:19:15] "GET /remind_approve?du_id=11 HTTP/1.1" 200 18
+[03/Apr/2017 03:19:15] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:19:24] "GET /remind_approve?du_id=11 HTTP/1.1" 200 18
+[03/Apr/2017 03:19:24] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:19:53] "GET /remind_approve?du_id=11 HTTP/1.1" 200 18
+[03/Apr/2017 03:19:53] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:03:42
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 03:23:55] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:24:00] "GET /remind_approve?du_id=11 HTTP/1.1" 200 21
+[03/Apr/2017 03:24:00] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:24:15] "GET /person?du_id=11 HTTP/1.1" 200 9327
+[03/Apr/2017 03:24:15] "GET /css/style.css HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /css/animate.css HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/Chart.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/wow.min.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/classie.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/uisearch.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/scripts.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /images/1.jpg HTTP/1.1" 304 0
+[03/Apr/2017 03:24:15] "GET /images/search.png HTTP/1.1" 304 0
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:23:43
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:26:54] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:26:54] "GET /remind_approve?du_id=11 HTTP/1.1" 200 21
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:26:06
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:29:38] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:29:40] "GET /remind_approve?du_id=11 HTTP/1.1" 200 21
+[03/Apr/2017 03:29:40] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:30:18] "GET /person?du_id=11 HTTP/1.1" 200 9327
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:29:34
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:30:53] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+[03/Apr/2017 03:30:55] "GET /remind_approve?du_id=11 HTTP/1.1" 200 21
+[03/Apr/2017 03:30:55] "GET /per_detail?du_id=11 HTTP/1.1" 200 11795
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:30:36
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:34:09] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+[03/Apr/2017 03:34:12] "GET /remind_approve?du_id=11 HTTP/1.1" 200 51
+[03/Apr/2017 03:34:12] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:33:14
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:34:51] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+[03/Apr/2017 03:34:54] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+[03/Apr/2017 03:34:54] "GET /remind_approve?du_id=11 HTTP/1.1" 200 61
+[03/Apr/2017 03:35:19] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+[03/Apr/2017 03:35:22] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+[03/Apr/2017 03:35:22] "GET /remind_approve?du_id=11 HTTP/1.1" 200 61
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:34:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:35:35] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+[03/Apr/2017 03:35:38] "GET /remind_approve?du_id=11 HTTP/1.1" 200 51
+[03/Apr/2017 03:35:38] "GET /per_detail?du_id=11 HTTP/1.1" 200 11854
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:35:33
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:35:55] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+[03/Apr/2017 03:35:58] "GET /remind_approve?du_id=11 HTTP/1.1" 200 58
+[03/Apr/2017 03:35:58] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:35:46
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 03:36:56] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+[03/Apr/2017 03:36:59] "GET /remind_approve?du_id=11 HTTP/1.1" 200 56
+[03/Apr/2017 03:36:59] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+[03/Apr/2017 03:38:05] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+[03/Apr/2017 03:38:09] "GET /remind_approve?du_id=11 HTTP/1.1" 200 56
+[03/Apr/2017 03:38:09] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+[03/Apr/2017 03:38:17] "GET /per_detail?du_id=5 HTTP/1.1" 200 11162
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:36:52
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 05:59:27] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 05:59:30] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+Validating models...
+
+0 errors found
+April 03, 2017 - 03:50:04
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 06:00:46] "GET /per_detail?du_id=11 HTTP/1.1" 200 11851
+[03/Apr/2017 06:07:07] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:07:14] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 06:07:14] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:07:19] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 06:07:19] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:07:57] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:07:59] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 06:07:59] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:08:01] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 06:08:01] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:08:13] "GET / HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 06:08:17] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 06:08:19] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:08:21] "GET /per_detail?du_id=11 HTTP/1.1" 200 12850
+[03/Apr/2017 06:08:21] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 06:11:16] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:18] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:19] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:20] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:21] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:21] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:22] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:48] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+[03/Apr/2017 06:11:53] "GET /per_detail?du_id=11 HTTP/1.1" 200 11883
+Validating models...
+
+0 errors found
+April 03, 2017 - 06:00:27
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 06:13:54] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:13:56] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:13:57] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:13:58] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:14:06] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:16:00] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:17:27] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:17:37] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:17:52] "GET /per_detail?du_id=11 HTTP/1.1" 200 11860
+[03/Apr/2017 06:19:22] "GET /per_detail?du_id=11 HTTP/1.1" 200 11863
+[03/Apr/2017 06:19:31] "GET /per_detail?du_id=11 HTTP/1.1" 200 11863
+[03/Apr/2017 06:20:36] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 06:20:48] "GET /per_detail?du_id=11 HTTP/1.1" 200 11863
+[03/Apr/2017 06:23:03] "GET /per_detail?du_id=11 HTTP/1.1" 200 11884
+[03/Apr/2017 06:23:05] "GET /per_detail?du_id=11 HTTP/1.1" 200 11884
+[03/Apr/2017 06:23:32] "GET /per_detail?du_id=11 HTTP/1.1" 200 11884
+[03/Apr/2017 06:23:39] "GET /per_detail?du_id=11 HTTP/1.1" 200 11884
+[03/Apr/2017 06:23:39] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /css/style.css HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/wow.min.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/Chart.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /css/animate.css HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/classie.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/uisearch.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/scripts.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /images/search.png HTTP/1.1" 304 0
+[03/Apr/2017 06:23:39] "GET /images/1.jpg HTTP/1.1" 304 0
+[03/Apr/2017 06:23:46] "GET /per_detail?du_id=11 HTTP/1.1" 200 11884
+[03/Apr/2017 06:23:46] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[03/Apr/2017 06:28:00] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 06:28:03] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10202
+[03/Apr/2017 07:32:39] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 07:45:08] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 07:45:10] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10627
+[03/Apr/2017 07:55:38] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10837
+[03/Apr/2017 07:55:48] "GET / HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 07:55:53] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 07:55:59] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 07:57:14] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10837
+Validating models...
+
+0 errors found
+April 03, 2017 - 06:12:21
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 08:35:55] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10926
+[03/Apr/2017 08:36:12] "POST /submit_mod_apply HTTP/1.1" 200 7693
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 08:37:20] "GET /person HTTP/1.1" 200 10313
+Validating models...
+
+0 errors found
+April 03, 2017 - 08:35:32
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 08:39:56] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10926
+[03/Apr/2017 08:40:02] "POST /submit_mod_apply HTTP/1.1" 200 7693
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 08:40:08] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 08:40:20] "GET /apply HTTP/1.1" 200 10239
+[03/Apr/2017 08:40:29] "GET /hisjob HTTP/1.1" 200 7104
+[03/Apr/2017 08:40:30] "GET /submit HTTP/1.1" 200 7693
+[03/Apr/2017 08:41:08] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 08:41:10] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 08:41:15] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10926
+[03/Apr/2017 08:44:29] "POST /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:37] "GET / HTTP/1.1" 200 10239
+[03/Apr/2017 08:44:40] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 08:44:41] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 08:44:44] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10926
+[03/Apr/2017 08:44:49] "POST /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/ HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/css/style.css HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/css/bootstrap.min.css HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/css/font-awesome.css HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/wow.min.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/Chart.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/css/animate.css HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/jquery-1.10.2.min.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/classie.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/uisearch.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/jquery.nicescroll.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/scripts.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/js/bootstrap.min.js HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:55] "GET /submit_mod_apply/images/1.jpg HTTP/1.1" 200 7693
+[03/Apr/2017 08:44:58] "GET /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:45:00] "GET /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:45:02] "GET /submit_mod_apply HTTP/1.1" 200 7693
+Validating models...
+
+0 errors found
+April 03, 2017 - 08:38:33
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 08:48:28] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 08:48:32] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 08:48:42] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10919
+[03/Apr/2017 08:48:46] "POST /submitmod HTTP/1.1" 200 7693
+[03/Apr/2017 08:55:34] "GET /submitmod HTTP/1.1" 200 7693
+[03/Apr/2017 08:55:37] "GET /submitmod HTTP/1.1" 200 7693
+Validating models...
+
+0 errors found
+April 03, 2017 - 08:47:46
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 08:57:23] "GET /submitmod HTTP/1.1" 200 7693
+[03/Apr/2017 08:57:30] "GET /submitmod HTTP/1.1" 200 7693
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 08:57:34] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 08:57:36] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 08:57:38] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10926
+[03/Apr/2017 08:57:39] "POST /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:58:10] "GET /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:58:46] "GET /submit_mod_apply HTTP/1.1" 200 7693
+[03/Apr/2017 08:58:49] "GET /submit_mod_apply HTTP/1.1" 200 7693
+Validating models...
+
+0 errors found
+April 03, 2017 - 08:56:20
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 09:01:01] "GET /mod_apply HTTP/1.1" 500 75338
+[03/Apr/2017 09:02:00] "GET /mod_apply HTTP/1.1" 500 75632
+[03/Apr/2017 09:02:02] "GET /mod_apply HTTP/1.1" 500 75632
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:03:36] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:03:40] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 09:03:48] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10919
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:03:57) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:03:57] "POST /mod_apply HTTP/1.1" 200 10236
+[03/Apr/2017 09:04:27] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:29] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:29] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:30] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:30] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:30] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:30] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:31] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:31] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:31] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:04:32] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:07:45] "GET /person HTTP/1.1" 200 10313
+[03/Apr/2017 09:07:49] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 09:07:53] "GET /per_detail?du_id=9 HTTP/1.1" 200 11639
+[03/Apr/2017 09:08:02] "GET /modify_apply?du_id=9 HTTP/1.1" 200 10929
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:08:19) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-03 11:00:57) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:08:19] "POST /mod_apply HTTP/1.1" 200 10236
+[03/Apr/2017 09:08:22] "GET /person HTTP/1.1" 200 10534
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:00:38
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:10:15] "GET /person HTTP/1.1" 200 10534
+[03/Apr/2017 09:10:17] "GET /per_detail?du_id=11 HTTP/1.1" 200 11970
+[03/Apr/2017 09:10:19] "GET /modify_apply?du_id=11 HTTP/1.1" 200 10923
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:10:28) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:10:28] "POST /modify_submit HTTP/1.1" 200 10236
+[03/Apr/2017 09:10:32] "GET /submit HTTP/1.1" 200 7693
+[03/Apr/2017 09:10:36] "GET /person HTTP/1.1" 200 10539
+[03/Apr/2017 09:10:50] "GET /per_detail?du_id=3 HTTP/1.1" 200 10312
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:09:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 09:19:50] "GET /apply HTTP/1.1" 200 10239
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:19:16
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:25:12] "GET /person HTTP/1.1" 200 10539
+[03/Apr/2017 09:25:14] "GET /per_detail?du_id=9 HTTP/1.1" 500 67648
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:25:07
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 09:25:55] "GET /per_detail?du_id=9 HTTP/1.1" 200 11977
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:25:53
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[03/Apr/2017 09:31:19] "GET /apply HTTP/1.1" 200 10239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:32:29) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:32:29] "POST /submitapply HTTP/1.1" 200 12090
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:32:47) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:32:47] "GET /remind_approve?du_id=12 HTTP/1.1" 200 21
+[03/Apr/2017 09:32:47] "GET /submitapply?du_id=12 HTTP/1.1" 500 70289
+[03/Apr/2017 09:35:21] "GET /person?du_id=12 HTTP/1.1" 200 9338
+[03/Apr/2017 09:35:59] "GET /person?du_id=12 HTTP/1.1" 200 9338
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:36:57) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:36:57] "POST /submitapply HTTP/1.1" 200 12090
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:37:03) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:37:03] "POST /submitapply HTTP/1.1" 200 12090
+[03/Apr/2017 09:37:44] "GET /person?du_id=15 HTTP/1.1" 200 9338
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:38:54) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:38:54] "GET /remind_approve?du_id=15 HTTP/1.1" 200 21
+[03/Apr/2017 09:38:54] "GET /submitapply?du_id=15 HTTP/1.1" 500 70289
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:29:56
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 09:52:33] "GET /apply HTTP/1.1" 200 10329
+[03/Apr/2017 09:52:50] "POST /user_apply HTTP/1.1" 200 10329
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:52:50) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:52:50] "POST /submitapply HTTP/1.1" 200 14
+[03/Apr/2017 09:54:37] "GET /apply HTTP/1.1" 200 10308
+[03/Apr/2017 09:54:48] "POST /user_apply HTTP/1.1" 200 10308
+[03/Apr/2017 09:54:48] "POST /apply HTTP/1.1" 200 10308
+[03/Apr/2017 09:56:31] "GET /apply HTTP/1.1" 200 10308
+[03/Apr/2017 09:56:41] "POST /user_apply HTTP/1.1" 200 10308
+[03/Apr/2017 09:56:41] "POST /apply HTTP/1.1" 200 10308
+[03/Apr/2017 09:57:34] "POST /apply HTTP/1.1" 200 10309
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:57:45) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:57:45] "POST /submitapply HTTP/1.1" 200 14
+[03/Apr/2017 09:57:45] "POST /apply HTTP/1.1" 200 10309
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 09:58:03] "GET /person HTTP/1.1" 200 13306
+Validating models...
+
+0 errors found
+April 03, 2017 - 09:48:10
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[03/Apr/2017 10:02:57] "GET /apply HTTP/1.1" 200 10309
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 18:03:17) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 10:03:17] "POST /submitapply HTTP/1.1" 200 14
+[03/Apr/2017 10:03:17] "POST /apply HTTP/1.1" 200 10309
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 10:03:40] "GET /person HTTP/1.1" 200 13830
+[03/Apr/2017 10:17:12] "GET /apply HTTP/1.1" 200 10358
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 18:17:35) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 10:17:35] "POST /submitapply HTTP/1.1" 200 14
+[03/Apr/2017 10:17:53] "GET /person HTTP/1.1" 200 14405
+[03/Apr/2017 10:17:57] "GET /per_detail?du_id=20 HTTP/1.1" 200 12122
+[03/Apr/2017 10:18:05] "GET /modify_apply?du_id=20 HTTP/1.1" 200 11038
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 18:18:20) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 10:18:20] "POST /modify_submit HTTP/1.1" 200 16
+[03/Apr/2017 10:19:19] "GET / HTTP/1.1" 200 10358
+[03/Apr/2017 10:19:23] "GET /person HTTP/1.1" 200 14405
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:08:19) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-03 18:19:28) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 10:19:28] "GET /approve?du_id=9&flag=1 HTTP/1.1" 200 21
+[03/Apr/2017 10:19:29] "GET /person HTTP/1.1" 200 14184
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:10:28) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-03 18:19:31) while time zone support is active.
+  RuntimeWarning)
+
+[03/Apr/2017 10:19:32] "GET /approve?du_id=11&flag=0 HTTP/1.1" 200 21
+[03/Apr/2017 10:19:33] "GET /person HTTP/1.1" 200 13962
+[03/Apr/2017 10:19:44] "GET /per_detail?du_id=12 HTTP/1.1" 200 12090
+[03/Apr/2017 10:19:50] "GET /cancel_approve?du_id=12 HTTP/1.1" 200 21
+[03/Apr/2017 10:19:50] "GET /per_detail?du_id=12 HTTP/1.1" 200 11277
+[03/Apr/2017 10:20:01] "GET /person HTTP/1.1" 200 13389
+[03/Apr/2017 10:20:04] "GET /per_detail?du_id=14 HTTP/1.1" 200 12090
+[03/Apr/2017 10:20:10] "GET /per_detail?du_id=14 HTTP/1.1" 200 12090
+[03/Apr/2017 10:20:10] "GET /remind_approve?du_id=14 HTTP/1.1" 200 21
+[03/Apr/2017 10:23:16] "GET /per_detail?du_id=14 HTTP/1.1" 200 12090
+[03/Apr/2017 10:23:16] "GET /remind_approve?du_id=14 HTTP/1.1" 200 21
+[03/Apr/2017 10:23:47] "GET /person?du_id=14 HTTP/1.1" 200 9338
+[03/Apr/2017 10:30:10] "GET /person HTTP/1.1" 200 13389
+[03/Apr/2017 10:30:14] "GET /per_detail?du_id=15 HTTP/1.1" 200 12090
+[03/Apr/2017 10:30:23] "GET /per_detail?du_id=15 HTTP/1.1" 200 12090
+[03/Apr/2017 10:30:23] "GET /remind_approve?du_id=15 HTTP/1.1" 200 21
+[03/Apr/2017 10:30:32] "GET /person?du_id=15 HTTP/1.1" 200 9338
+[05/Apr/2017 05:10:48] "GET / HTTP/1.1" 200 10358
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-06 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 05:10:52] "GET /person HTTP/1.1" 200 13389
+[05/Apr/2017 05:11:03] "GET /per_detail?du_id=19 HTTP/1.1" 200 11605
+[05/Apr/2017 05:11:12] "GET /cancel_approve?du_id=19 HTTP/1.1" 200 21
+[05/Apr/2017 05:11:12] "GET /per_detail?du_id=19 HTTP/1.1" 200 11277
+[05/Apr/2017 05:11:19] "GET /person HTTP/1.1" 200 12865
+[05/Apr/2017 05:12:59] "GET /per_detail?du_id=18 HTTP/1.1" 200 11605
+[05/Apr/2017 05:13:04] "GET /per_detail?du_id=18 HTTP/1.1" 200 11605
+[05/Apr/2017 05:13:04] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+Validating models...
+
+0 errors found
+April 03, 2017 - 10:02:54
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[05/Apr/2017 05:50:57] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:51:00] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:51:00] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+Validating models...
+
+0 errors found
+April 05, 2017 - 05:50:53
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+----------------------------------------
+Exception happened during processing of request from ('172.22.19.137', [05/Apr/2017 05:51:55] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:51:56] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:51:56] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:51:58] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:51:58] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:52:02] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+Validating models...
+
+0 errors found
+April 05, 2017 - 05:51:55
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[05/Apr/2017 05:52:30] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:52:32] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:52:32] "GET /per_detail?du_id=18 HTTP/1.1" 200 11819
+[05/Apr/2017 05:53:09] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:53:10] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:53:10] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:53:10] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:53:14] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:53:14] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:54:25] "GET /per_detail?du_id=18 HTTP/1.1" 200 11817
+[05/Apr/2017 05:54:26] "GET /per_detail?du_id=18 HTTP/1.1" 200 11817
+[05/Apr/2017 05:54:30] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:54:30] "GET /per_detail?du_id=18 HTTP/1.1" 200 11817
+[05/Apr/2017 05:55:09] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:55:09] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:55:13] "GET /per_detail?du_id=18 HTTP/1.1" 200 11825
+[05/Apr/2017 05:55:13] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:56:53] "GET /per_detail?du_id=18 HTTP/1.1" 200 11829
+[05/Apr/2017 05:56:55] "GET /remind_approve?du_id=18 HTTP/1.1" 200 21
+[05/Apr/2017 05:56:55] "GET /per_detail?du_id=18 HTTP/1.1" 200 11829
+[05/Apr/2017 05:58:11] "GET /apply HTTP/1.1" 200 10358
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 13:58:30) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 05:58:30] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 05:58:37] "GET / HTTP/1.1" 200 10358
+[05/Apr/2017 05:58:37] "GET / HTTP/1.1" 200 10358
+[05/Apr/2017 05:58:40] "GET /apply HTTP/1.1" 200 10358
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:848: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-03-06 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 05:58:42] "GET /person HTTP/1.1" 200 13438
+[05/Apr/2017 05:58:49] "GET /per_detail?du_id=21 HTTP/1.1" 200 12314
+[05/Apr/2017 06:00:47] "GET /modify_apply?du_id=21 HTTP/1.1" 200 11036
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 14:01:28) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 06:01:28] "POST /modify_submit HTTP/1.1" 200 16
+[05/Apr/2017 06:01:33] "GET /person HTTP/1.1" 200 13448
+[05/Apr/2017 06:41:17] "GET /apply HTTP/1.1" 200 10689
+[05/Apr/2017 06:41:18] "GET /apply HTTP/1.1" 200 10689
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 14:41:50) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 06:41:50] "POST /apply HTTP/1.1" 200 10689
+[05/Apr/2017 06:41:50] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 06:42:04] "GET / HTTP/1.1" 200 10689
+[05/Apr/2017 06:42:07] "GET /person HTTP/1.1" 200 13972
+[05/Apr/2017 06:42:31] "GET /apply HTTP/1.1" 200 10689
+[05/Apr/2017 06:42:35] "GET /person HTTP/1.1" 200 13972
+[05/Apr/2017 06:42:40] "GET /apply HTTP/1.1" 200 10689
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 14:43:09) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 06:43:09] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 06:43:09] "POST /apply HTTP/1.1" 200 10689
+[05/Apr/2017 06:43:21] "GET / HTTP/1.1" 200 10689
+[05/Apr/2017 06:43:25] "GET /person HTTP/1.1" 200 14556
+[05/Apr/2017 06:45:09] "GET /apply HTTP/1.1" 200 10689
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 14:45:35) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 06:45:35] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 06:45:35] "POST /apply HTTP/1.1" 200 10689
+[05/Apr/2017 06:45:45] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:46] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:47] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:47] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:48] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:48] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:49] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:45:50] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 06:54:58] "POST /apply HTTP/1.1" 200 10757
+[05/Apr/2017 06:54:58] "POST /apply HTTP/1.1" 200 10757
+[05/Apr/2017 06:55:00] "GET /apply HTTP/1.1" 200 10757
+[05/Apr/2017 06:55:01] "GET /apply HTTP/1.1" 200 10757
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 14:57:12) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 06:57:12] "POST /apply HTTP/1.1" 200 10757
+[05/Apr/2017 06:57:12] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 06:57:19] "GET /apply HTTP/1.1" 200 10757
+[05/Apr/2017 06:57:20] "GET /apply HTTP/1.1" 200 10757
+[05/Apr/2017 06:57:24] "GET /person HTTP/1.1" 200 15724
+[05/Apr/2017 06:57:27] "GET /person HTTP/1.1" 200 15724
+[05/Apr/2017 06:57:28] "GET /person HTTP/1.1" 200 15724
+[05/Apr/2017 06:57:29] "GET /person HTTP/1.1" 200 15724
+[05/Apr/2017 06:57:41] "GET / HTTP/1.1" 200 10757
+[05/Apr/2017 06:58:04] "POST / HTTP/1.1" 200 10757
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 14:58:05) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 06:58:05] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 06:58:17] "GET /person HTTP/1.1" 200 16308
+[05/Apr/2017 07:03:26] "POST / HTTP/1.1" 200 10749
+[05/Apr/2017 07:03:27] "POST / HTTP/1.1" 200 10749
+[05/Apr/2017 07:03:31] "POST / HTTP/1.1" 200 10749
+[05/Apr/2017 07:03:32] "POST / HTTP/1.1" 200 10749
+[05/Apr/2017 07:03:45] "GET /person HTTP/1.1" 200 16308
+[05/Apr/2017 07:03:47] "GET / HTTP/1.1" 200 10749
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 15:04:15) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:04:15] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 07:04:15] "POST / HTTP/1.1" 200 10749
+[05/Apr/2017 07:04:28] "GET / HTTP/1.1" 200 10749
+[05/Apr/2017 07:05:54] "GET / HTTP/1.1" 200 10749
+[05/Apr/2017 07:05:55] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[05/Apr/2017 07:06:00] "GET /person HTTP/1.1" 200 16893
+[05/Apr/2017 07:06:05] "GET /per_detail?du_id=27 HTTP/1.1" 200 12435
+[05/Apr/2017 07:06:08] "GET /cancel_approve?du_id=27 HTTP/1.1" 200 21
+[05/Apr/2017 07:06:08] "GET /per_detail?du_id=27 HTTP/1.1" 200 11501
+[05/Apr/2017 07:06:13] "GET /person HTTP/1.1" 200 16308
+[05/Apr/2017 07:06:14] "GET /per_detail?du_id=26 HTTP/1.1" 200 12434
+[05/Apr/2017 07:06:17] "GET /cancel_approve?du_id=26 HTTP/1.1" 200 21
+[05/Apr/2017 07:06:17] "GET /per_detail?du_id=26 HTTP/1.1" 200 11501
+[05/Apr/2017 07:06:22] "GET /per_detail?du_id=26 HTTP/1.1" 200 11501
+[05/Apr/2017 07:06:25] "GET / HTTP/1.1" 200 10749
+[05/Apr/2017 07:06:26] "GET / HTTP/1.1" 200 10749
+[05/Apr/2017 07:06:30] "GET /person HTTP/1.1" 200 15724
+[05/Apr/2017 07:06:33] "GET /per_detail?du_id=25 HTTP/1.1" 200 12464
+[05/Apr/2017 07:06:36] "GET /cancel_approve?du_id=25 HTTP/1.1" 200 21
+[05/Apr/2017 07:06:36] "GET /per_detail?du_id=25 HTTP/1.1" 200 11501
+[05/Apr/2017 07:06:45] "GET / HTTP/1.1" 200 10749
+[05/Apr/2017 07:06:45] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /css/style.css HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/classie.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/uisearch.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/Chart.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/scripts.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/wow.min.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /css/animate.css HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /images/search.png HTTP/1.1" 304 0
+[05/Apr/2017 07:06:45] "GET /images/1.jpg HTTP/1.1" 304 0
+[05/Apr/2017 07:06:52] "GET /person HTTP/1.1" 200 15140
+[05/Apr/2017 07:07:16] "POST / HTTP/1.1" 200 10749
+[05/Apr/2017 07:07:17] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:07:35] "GET / HTTP/1.1" 200 10749
+[05/Apr/2017 07:14:41] "GET / HTTP/1.1" 200 10781
+[05/Apr/2017 07:14:42] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:15:06] "GET /?name=ajax26&reason=a&week_url_count=400w&level=offline&sitefile=specsite HTTP/1.1" 200 10781
+[05/Apr/2017 07:15:07] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:20:34] "GET /apply HTTP/1.1" 200 10781
+[05/Apr/2017 07:20:36] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:20:37] "GET /apply HTTP/1.1" 200 10781
+[05/Apr/2017 07:20:38] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:20:58] "GET /apply?name=ajax27&reason=a&week_url_count=100w&level=offline&sitefile=specsite HTTP/1.1" 200 10781
+[05/Apr/2017 07:21:00] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:24:03] "GET /apply HTTP/1.1" 200 10795
+[05/Apr/2017 07:24:04] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:24:04] "GET /apply HTTP/1.1" 200 10795
+[05/Apr/2017 07:24:05] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 15:24:31) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:24:31] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 07:24:33] "GET /person HTTP/1.1" 200 15722
+[05/Apr/2017 07:24:34] "GET /js/jquery-1.10.2.min.map HTTP/1.1" 404 1709
+[05/Apr/2017 07:28:30] "GET / HTTP/1.1" 200 10864
+[05/Apr/2017 07:28:31] "GET /apply HTTP/1.1" 200 10864
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 15:28:54) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:28:54] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 07:28:57] "GET /person HTTP/1.1" 200 16306
+[05/Apr/2017 07:30:56] "GET /person HTTP/1.1" 200 16306
+[05/Apr/2017 07:30:58] "GET /per_detail?du_id=29 HTTP/1.1" 200 12488
+[05/Apr/2017 07:31:05] "GET /cancel_approve?du_id=29 HTTP/1.1" 200 21
+[05/Apr/2017 07:31:06] "GET /person HTTP/1.1" 200 15722
+[05/Apr/2017 07:31:23] "GET /person HTTP/1.1" 200 15722
+[05/Apr/2017 07:31:26] "GET /per_detail?du_id=28 HTTP/1.1" 200 12486
+[05/Apr/2017 07:31:34] "GET /remind_approve?du_id=28 HTTP/1.1" 200 21
+[05/Apr/2017 07:31:37] "GET /person HTTP/1.1" 200 15722
+Validating models...
+
+0 errors found
+April 05, 2017 - 05:52:30
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+{u'message': u'ok', u'code': u'1000', u'return': True}
+[05/Apr/2017 07:35:50] "GET /person HTTP/1.1" 200 15722
+[05/Apr/2017 07:35:53] "GET /per_detail?du_id=28 HTTP/1.1" 200 12488
+[05/Apr/2017 07:35:56] "GET /modify_apply?du_id=28 HTTP/1.1" 200 11035
+[05/Apr/2017 07:45:40] "GET / HTTP/1.1" 200 10872
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 15:46:24) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:46:24] "POST /submitapply HTTP/1.1" 200 14
+[05/Apr/2017 07:46:26] "GET /person HTTP/1.1" 200 16615
+[05/Apr/2017 07:46:30] "GET /per_detail?du_id=30 HTTP/1.1" 200 12491
+[05/Apr/2017 07:46:40] "GET /remind_approve?du_id=30 HTTP/1.1" 200 21
+[05/Apr/2017 07:46:41] "GET /person HTTP/1.1" 200 16615
+[05/Apr/2017 07:46:44] "GET /per_detail?du_id=30 HTTP/1.1" 200 12491
+[05/Apr/2017 07:46:54] "GET /per_detail?du_id=28 HTTP/1.1" 200 12488
+[05/Apr/2017 07:46:59] "GET /cancel_approve?du_id=28 HTTP/1.1" 200 21
+[05/Apr/2017 07:47:03] "GET /person HTTP/1.1" 200 16005
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:36:57) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:47:13) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:47:13] "GET /approve?du_id=14&flag=0 HTTP/1.1" 200 21
+[05/Apr/2017 07:47:14] "GET /person HTTP/1.1" 200 15755
+[05/Apr/2017 07:47:21] "GET /person HTTP/1.1" 200 15755
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:37:03) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:47:26) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:47:26] "GET /approve?du_id=15&flag=0 HTTP/1.1" 200 21
+[05/Apr/2017 07:47:27] "GET /person HTTP/1.1" 200 15505
+[05/Apr/2017 07:47:31] "GET /person HTTP/1.1" 200 15505
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:52:50) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:47:42) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:47:42] "GET /approve?du_id=17&flag=1 HTTP/1.1" 200 21
+[05/Apr/2017 07:47:43] "GET /person HTTP/1.1" 200 15255
+[05/Apr/2017 07:47:46] "GET /person HTTP/1.1" 200 15255
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 17:57:45) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:47:54) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:47:54] "GET /approve?du_id=18&flag=1 HTTP/1.1" 200 21
+[05/Apr/2017 07:47:55] "GET /person HTTP/1.1" 200 15005
+[05/Apr/2017 07:47:57] "GET /person HTTP/1.1" 200 15005
+[05/Apr/2017 07:47:58] "GET /person HTTP/1.1" 200 15005
+[05/Apr/2017 07:48:02] "GET /person HTTP/1.1" 200 15005
+[05/Apr/2017 07:48:03] "GET /person HTTP/1.1" 200 15005
+[05/Apr/2017 07:48:20] "GET /per_detail?du_id=30 HTTP/1.1" 200 12491
+[05/Apr/2017 07:48:25] "GET /per_detail?du_id=20 HTTP/1.1" 200 12372
+[05/Apr/2017 07:48:35] "GET /per_detail?du_id=15 HTTP/1.1" 200 11944
+[05/Apr/2017 07:48:38] "GET /modify_apply?du_id=15 HTTP/1.1" 200 11237
+[05/Apr/2017 07:48:48] "GET /modify_apply?du_id=15 HTTP/1.1" 200 11237
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 15:49:06) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:49:06] "POST /modify_submit HTTP/1.1" 200 16
+[05/Apr/2017 07:49:07] "GET /person HTTP/1.1" 200 15269
+[05/Apr/2017 07:49:10] "GET /per_detail?du_id=15 HTTP/1.1" 200 12493
+[05/Apr/2017 07:58:26] "GET /person HTTP/1.1" 200 15283
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:58:33) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:58:33] "GET /approve?du_id=15&flag=0 HTTP/1.1" 200 21
+[05/Apr/2017 07:58:36] "GET /person HTTP/1.1" 200 15033
+[05/Apr/2017 07:58:43] "GET /person HTTP/1.1" 200 15033
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-03 18:18:20) while time zone support is active.
+  RuntimeWarning)
+
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:58:49) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:58:49] "GET /approve?du_id=20&flag=1 HTTP/1.1" 200 21
+[05/Apr/2017 07:58:52] "GET /person HTTP/1.1" 200 14783
+[05/Apr/2017 07:59:12] "GET /person HTTP/1.1" 200 14783
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 15:59:19) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 07:59:19] "GET /approve?du_id=21&flag=0 HTTP/1.1" 200 21
+[05/Apr/2017 07:59:21] "GET /person HTTP/1.1" 200 14533
+[05/Apr/2017 08:01:46] "GET /person HTTP/1.1" 200 14593
+[05/Apr/2017 08:01:47] "GET /person HTTP/1.1" 200 14593
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_approve_time received a naive datetime (2017-04-05 16:01:53) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 08:01:53] "GET /approve?du_id=30&flag=0 HTTP/1.1" 200 21
+[05/Apr/2017 08:01:55] "GET /person HTTP/1.1" 200 14330
+[05/Apr/2017 08:02:01] "GET /per_detail?du_id=30 HTTP/1.1" 200 12095
+[05/Apr/2017 08:02:04] "GET /modify_apply?du_id=30 HTTP/1.1" 200 11239
+/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/fields/__init__.py:903: RuntimeWarning: DateTimeField DeadUser.du_apply_time received a naive datetime (2017-04-05 16:02:16) while time zone support is active.
+  RuntimeWarning)
+
+[05/Apr/2017 08:02:16] "POST /modify_submit HTTP/1.1" 200 16
+[05/Apr/2017 08:02:18] "GET /person HTTP/1.1" 200 14592
+[05/Apr/2017 08:02:45] "GET /per_search?searchkey=aaa HTTP/1.1" 200 9400
+[05/Apr/2017 08:02:51] "GET /per_search?searchkey=aja HTTP/1.1" 200 10878

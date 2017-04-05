@@ -1,0 +1,54 @@
+{% extends "basic.html" %}
+{% block content %}
+			<div id="page-wrapper">
+				<div class="graphs">
+						<div class="tab-content">
+						<div class="tab-pane active" id="horizontal-form">
+							<form class="form-horizontal">
+								<div class="form-group has-success has-feedback">
+							        <input type="text" class="form-control1" id="inputError1" value="提交任务">
+							    </div>
+								<div class="form-group">
+									<label for="focusedinput" class="col-sm-2 control-label">链接地址(ftp)</label>
+									<div class="col-sm-8">
+										<input disabled=""  type="text" class="form-control1" id="focusedinput" value="ftp://cp01-sys-rath4-c32-qa258.cp01.baidu.com:/home/spider/temp/temp">
+									</div>
+								</div>
+								
+								
+								<div class="form-group">
+									<label for="inputPassword" class="col-sm-2 control-label">token</label>
+									<div class="col-sm-8">
+										<input type="password" class="form-control1" id="inputPassword" placeholder="请输入唯一的token">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="radio" class="col-sm-2 control-label">抓取ua</label>
+									<div class="col-sm-8">
+										<div class="radio-inline"><label><input type="radio" checked=""> pc</label></div>
+										<div class="radio-inline"><label><input type="radio" > wise</label></div>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="radio" class="col-sm-2 control-label">是否例行</label>
+									<div class="col-sm-8">
+										<div class="radio-inline"><label><input type="radio" checked=""> 例行任务</label></div>
+										<div class="radio-inline"><label><input type="radio" > 单次任务</label></div>
+									</div>
+								</div>
+								
+								
+						  <div class="panel-footer">
+							<div class="row">
+								<div class="col-sm-8 col-sm-offset-2">
+									<button class="btn-success btn">提醒审批</button>
+									<button class="btn-default btn">取消审批</button>
+									<button class="btn-inverse btn">修改申请</button>
+								</div>
+							</div>
+						 </div>
+						</form>
+					  </div>
+				</div>
+			</div>
+{%endblock%} 

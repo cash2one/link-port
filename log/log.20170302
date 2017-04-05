@@ -1,0 +1,1231 @@
+[02/Mar/2017 11:09:27] "GET /forms1 HTTP/1.1" 500 88768
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:09:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 284, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 590, in process_request
+    t = threading.Thread(target = self.process_request_thread,
+Unhandled exception in thread started by <function wrapper at 0x7f8b8ddc1c08>
+----------------------------------------
+Exception happened during processing of request from ('172.20.138.199', 56823)
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 128, in inner_run
+    ipv6=self.use_ipv6, threading=threading)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 180, in run
+    httpd.serve_forever()
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 227, in serve_forever
+    self._handle_request_noblock()
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 286, in _handle_request_noblock
+    self.handle_error(request, client_address)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 343, in handle_error
+    traceback.print_exc() # XXX But this goes to stderr!
+  File "/home/work/.jumbo/lib/python2.7/traceback.py", line 232, in print_exc
+    print_exception(etype, value, tb, limit, file)
+  File "/home/work/.jumbo/lib/python2.7/traceback.py", line 126, in print_exception
+    lines = format_exception_only(etype, value)
+  File "/home/work/.jumbo/lib/python2.7/traceback.py", line 171, in format_exception_only
+    isinstance(etype, types.InstanceType) or
+TypeError: isinstance() arg 2 must be a class, type, or tuple of classes and types
+[02/Mar/2017 11:10:15] "GET /forms0 HTTP/1.1" 200 7860
+[02/Mar/2017 11:10:16] "GET /css/style.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/Chart.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /css/icon-font.min.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /css/animate.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/wow.min.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/classie.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/scripts.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/uisearch.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /images/search.png HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /images/1.jpg HTTP/1.1" 304 0
+[02/Mar/2017 11:10:16] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[02/Mar/2017 11:10:27] "GET /css/animate.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:27] "GET /css/style.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:27] "GET /css/icon-font.min.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:27] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:27] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[02/Mar/2017 11:10:33] "GET /forms0 HTTP/1.1" 200 7860
+[02/Mar/2017 11:11:22] "GET /forms0 HTTP/1.1" 200 7860
+[02/Mar/2017 11:11:28] "GET /forms2 HTTP/1.1" 200 8430
+[02/Mar/2017 11:11:42] "GET /forms2 HTTP/1.1" 200 8430
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:10:15
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[02/Mar/2017 11:12:52] "GET /forms2 HTTP/1.1" 200 8255
+[02/Mar/2017 11:13:39] "GET /forms2 HTTP/1.1" 200 8102
+[02/Mar/2017 11:13:47] "GET /forms1 HTTP/1.1" 404 3404
+[02/Mar/2017 11:13:51] "GET /forms0 HTTP/1.1" 200 7532
+[02/Mar/2017 11:14:19] "GET /forms2 HTTP/1.1" 200 8030
+[02/Mar/2017 11:14:23] "GET /forms0 HTTP/1.1" 200 7460
+[02/Mar/2017 11:14:32] "GET /forms2 HTTP/1.1" 200 8030
+[02/Mar/2017 11:15:44] "GET /forms2 HTTP/1.1" 200 7988
+[02/Mar/2017 11:16:32] "GET /forms1 HTTP/1.1" 404 3404
+[02/Mar/2017 11:16:35] "GET /forms0 HTTP/1.1" 200 7418
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:12:00
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[02/Mar/2017 11:21:36] "GET / HTTP/1.1" 200 6919
+[02/Mar/2017 11:21:36] "GET /js/Chart.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/classie.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/wow.min.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/uisearch.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/scripts.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[02/Mar/2017 11:21:36] "GET /images/search.png HTTP/1.1" 304 0
+[02/Mar/2017 11:21:37] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[02/Mar/2017 11:21:37] "GET /images/1.jpg HTTP/1.1" 304 0
+[02/Mar/2017 11:21:39] "GET /forms0 HTTP/1.1" 404 3403
+[02/Mar/2017 11:21:45] "GET /apply HTTP/1.1" 200 7418
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:17:36
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fef499f6c08>
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 128, in inner_run
+    ipv6=self.use_ipv6, threading=threading)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 180, in run
+    httpd.serve_forever()
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 225, in serve_forever
+    r, w, e = select.select([self], [], [], poll_interval)
+AttributeError: 'NoneType' object has no attribute 'select'
+[02/Mar/2017 11:25:20] "GET /forms2 HTTP/1.1" 200 7988
+[02/Mar/2017 11:25:34] "GET /appl HTTP/1.1" 404 3397
+[02/Mar/2017 11:25:37] "GET /apply HTTP/1.1" 200 7418
+[02/Mar/2017 11:25:49] "GET /forms2 HTTP/1.1" 200 7988
+[02/Mar/2017 11:25:54] "GET /forms3 HTTP/1.1" 200 7641
+[02/Mar/2017 11:25:57] "GET /forms4 HTTP/1.1" 200 7508
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:22:15
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[02/Mar/2017 11:26:42] "GET /submit HTTP/1.1" 404 3403
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:26:42
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:27:06
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[02/Mar/2017 12:07:52] "GET /apply HTTP/1.1" 200 7418
+[02/Mar/2017 12:07:52] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /css/style.css HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /css/animate.css HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/Chart.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/wow.min.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/classie.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/uisearch.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:52] "GET /js/scripts.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:53] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[02/Mar/2017 12:07:53] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[02/Mar/2017 12:07:53] "GET /images/1.jpg HTTP/1.1" 304 0
+[02/Mar/2017 12:07:53] "GET /images/search.png HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET / HTTP/1.1" 200 6919
+[03/Mar/2017 06:49:45] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/Chart.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /css/animate.css HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /css/style.css HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/wow.min.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/classie.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/uisearch.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/scripts.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:45] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Mar/2017 06:49:46] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[03/Mar/2017 06:49:46] "GET /images/1.jpg HTTP/1.1" 304 0
+[03/Mar/2017 06:49:46] "GET /images/search.png HTTP/1.1" 304 0
+[03/Mar/2017 07:39:02] "GET / HTTP/1.1" 302 0
+[03/Mar/2017 07:39:02] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[03/Mar/2017 07:39:06] "GET /accounts/login/?next=%2F&ticket=ST-195747-Jd6ezbGzzRnarFNryfND-uuap HTTP/1.1" 302 0
+[03/Mar/2017 07:39:06] "GET / HTTP/1.1" 200 6919
+[03/Mar/2017 07:39:06] "GET /css/style.css HTTP/1.1" 200 141729
+[03/Mar/2017 07:39:06] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[03/Mar/2017 07:39:06] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[03/Mar/2017 07:39:06] "GET /css/animate.css HTTP/1.1" 200 70196
+[03/Mar/2017 07:39:06] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[03/Mar/2017 07:39:06] "GET /js/Chart.js HTTP/1.1" 200 44471
+[03/Mar/2017 07:39:06] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[03/Mar/2017 07:39:06] "GET /js/scripts.js HTTP/1.1" 200 4435
+[03/Mar/2017 07:39:06] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[03/Mar/2017 07:39:06] "GET /js/classie.js HTTP/1.1" 200 1835
+[03/Mar/2017 07:39:06] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[03/Mar/2017 07:39:06] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[03/Mar/2017 07:39:07] "GET /images/search.png HTTP/1.1" 200 3030
+[03/Mar/2017 07:39:07] "GET /images/1.jpg HTTP/1.1" 200 13741
+[03/Mar/2017 07:39:07] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[06/Mar/2017 11:28:50] "GET / HTTP/1.1" 200 6919
+[06/Mar/2017 11:28:50] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /css/animate.css HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/Chart.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /css/style.css HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/wow.min.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/classie.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/uisearch.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/scripts.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /images/search.png HTTP/1.1" 304 0
+[06/Mar/2017 11:28:51] "GET /images/1.jpg HTTP/1.1" 304 0
+[06/Mar/2017 11:29:08] "GET / HTTP/1.1" 302 0
+[06/Mar/2017 11:29:08] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[06/Mar/2017 11:30:00] "GET / HTTP/1.1" 200 6919
+[06/Mar/2017 11:34:32] "POST / HTTP/1.1" 302 0
+[06/Mar/2017 11:34:32] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[06/Mar/2017 11:36:53] "POST / HTTP/1.1" 302 0
+[06/Mar/2017 11:36:53] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[07/Mar/2017 03:31:01] "GET / HTTP/1.1" 200 6919
+[07/Mar/2017 03:31:01] "GET /css/animate.css HTTP/1.1" 304 0
+[07/Mar/2017 03:31:01] "GET /css/style.css HTTP/1.1" 304 0
+[07/Mar/2017 03:31:01] "GET /js/Chart.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:01] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[07/Mar/2017 03:31:01] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[07/Mar/2017 03:31:01] "GET /js/wow.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:01] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /js/classie.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /js/uisearch.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /js/scripts.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /images/search.png HTTP/1.1" 304 0
+[07/Mar/2017 03:31:02] "GET /images/1.jpg HTTP/1.1" 304 0
+[07/Mar/2017 03:31:41] "GET /hisjob HTTP/1.1" 200 6919
+Validating models...
+
+0 errors found
+March 02, 2017 - 11:34:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:32:03] "GET / HTTP/1.1" 200 11325
+[07/Mar/2017 03:32:03] "GET /css/style.css HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/Chart.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /css/animate.css HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/wow.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/uisearch.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/classie.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/scripts.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /images/search.png HTTP/1.1" 304 0
+[07/Mar/2017 03:32:03] "GET /images/1.jpg HTTP/1.1" 304 0
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:32:03
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:32:49] "GET /person HTTP/1.1" 200 11325
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:32:37
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:33:12] "GET / HTTP/1.1" 200 7988
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:33:08
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:34:17] "GET / HTTP/1.1" 200 7641
+[07/Mar/2017 03:34:17] "GET /css/style.css HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /css/animate.css HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/Chart.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/wow.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/classie.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/uisearch.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/scripts.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /images/1.jpg HTTP/1.1" 304 0
+[07/Mar/2017 03:34:17] "GET /images/search.png HTTP/1.1" 304 0
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:34:17
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:47:11] "GET / HTTP/1.1" 200 8545
+[07/Mar/2017 03:47:28] "GET /detailjob HTTP/1.1" 200 8545
+[07/Mar/2017 03:47:57] "GET /detailjob HTTP/1.1" 200 8545
+[07/Mar/2017 03:48:00] "GET / HTTP/1.1" 500 87588
+[07/Mar/2017 03:48:11] "GET /apply HTTP/1.1" 200 7418
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:44:03
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:48:51] "GET /apply HTTP/1.1" 200 7422
+[07/Mar/2017 03:48:51] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /css/style.css HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /css/animate.css HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/Chart.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/wow.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/uisearch.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/classie.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/scripts.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /images/search.png HTTP/1.1" 304 0
+[07/Mar/2017 03:48:51] "GET /images/1.jpg HTTP/1.1" 304 0
+[07/Mar/2017 03:48:57] "GET /apply HTTP/1.1" 200 7422
+[07/Mar/2017 03:49:02] "GET /apply HTTP/1.1" 200 7422
+[07/Mar/2017 03:49:05] "GET / HTTP/1.1" 500 87588
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:48:50
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:49:25] "GET / HTTP/1.1" 200 7422
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:49:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:49:55] "GET / HTTP/1.1" 200 7354
+[07/Mar/2017 03:49:55] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[07/Mar/2017 03:49:55] "GET /css/style.css HTTP/1.1" 304 0
+[07/Mar/2017 03:49:55] "GET /css/animate.css HTTP/1.1" 304 0
+[07/Mar/2017 03:49:55] "GET /js/Chart.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:55] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[07/Mar/2017 03:49:55] "GET /js/wow.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /js/classie.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /js/uisearch.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /js/scripts.js HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /images/search.png HTTP/1.1" 304 0
+[07/Mar/2017 03:49:56] "GET /images/1.jpg HTTP/1.1" 304 0
+[07/Mar/2017 03:49:57] "GET /apply HTTP/1.1" 200 7354
+[07/Mar/2017 03:50:38] "GET /apply HTTP/1.1" 200 7228
+[07/Mar/2017 03:50:40] "GET /submit HTTP/1.1" 200 7318
+[07/Mar/2017 03:50:41] "GET /hisjob HTTP/1.1" 200 6729
+[07/Mar/2017 03:52:40] "GET /hisjob HTTP/1.1" 200 6734
+[07/Mar/2017 03:52:43] "GET /person HTTP/1.1" 200 11140
+[07/Mar/2017 03:53:41] "GET /person HTTP/1.1" 200 11223
+[07/Mar/2017 03:53:43] "GET /detailjob HTTP/1.1" 200 8443
+[07/Mar/2017 03:54:15] "GET /detailjob HTTP/1.1" 200 8515
+[07/Mar/2017 03:54:16] "GET /detailjob HTTP/1.1" 200 8515
+[07/Mar/2017 03:55:44] "GET /detailjob HTTP/1.1" 200 8584
+[07/Mar/2017 03:55:45] "GET /person HTTP/1.1" 200 11364
+[07/Mar/2017 03:56:05] "GET /person HTTP/1.1" 200 11295
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:49:55
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 284, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 590, in process_request
+    t = threading.Thread(target = self.process_request_thread,
+----------------------------------------
+Exception happened during processing of request from ('172.20.138.120', 61320)
+[07/Mar/2017 03:58:33] "GET /person HTTP/1.1" 200 11516
+[07/Mar/2017 03:58:36] "GET /person_pass HTTP/1.1" 200 11516
+[07/Mar/2017 03:58:43] "GET /person_nopass HTTP/1.1" 200 11516
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:58:31
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[07/Mar/2017 03:59:48] "GET /person_nopass HTTP/1.1" 200 11510
+[07/Mar/2017 03:59:52] "GET /per_nopass HTTP/1.1" 200 8173
+[07/Mar/2017 03:59:55] "GET /per_nopass HTTP/1.1" 200 8173
+[07/Mar/2017 03:59:58] "GET /per_pass HTTP/1.1" 200 7826
+[07/Mar/2017 06:20:27] "GET / HTTP/1.1" 200 7979
+[07/Mar/2017 06:20:29] "GET /apply HTTP/1.1" 200 7979
+[07/Mar/2017 06:20:31] "GET /apply HTTP/1.1" 200 7979
+[07/Mar/2017 06:20:33] "GET /submit HTTP/1.1" 200 7693
+[07/Mar/2017 06:20:35] "GET /hisjob HTTP/1.1" 200 7104
+[07/Mar/2017 06:20:37] "GET /detailjob HTTP/1.1" 200 8730
+[07/Mar/2017 06:20:42] "GET /per_pass HTTP/1.1" 200 7826
+[07/Mar/2017 06:20:47] "GET /per_nopass HTTP/1.1" 200 8173
+[08/Mar/2017 02:43:13] "GET / HTTP/1.1" 302 0
+[08/Mar/2017 02:43:13] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[08/Mar/2017 02:43:13] "GET /accounts/login/?next=%2F&ticket=ST-216692-49SkGQBvmHvfvNVgyQgn-uuap HTTP/1.1" 302 0
+[08/Mar/2017 02:43:13] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 02:43:13] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /css/style.css HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /js/Chart.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /js/wow.min.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /css/animate.css HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /js/classie.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /js/uisearch.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:13] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:14] "GET /js/scripts.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:14] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[08/Mar/2017 02:43:14] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[08/Mar/2017 02:43:14] "GET /images/search.png HTTP/1.1" 304 0
+[08/Mar/2017 02:43:14] "GET /images/1.jpg HTTP/1.1" 304 0
+[08/Mar/2017 05:02:56] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:19] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:36] "GET / HTTP/1.1" 302 0
+[08/Mar/2017 05:03:36] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[08/Mar/2017 05:03:36] "GET /accounts/login/?next=%2F&ticket=ST-212242-fHLOpT19WE7SVs74Ti1i-uuap HTTP/1.1" 302 0
+[08/Mar/2017 05:03:36] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:36] "GET /css/style.css HTTP/1.1" 200 141729
+[08/Mar/2017 05:03:36] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[08/Mar/2017 05:03:36] "GET /css/animate.css HTTP/1.1" 200 70196
+[08/Mar/2017 05:03:36] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[08/Mar/2017 05:03:36] "GET /js/Chart.js HTTP/1.1" 200 44471
+[08/Mar/2017 05:03:36] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[08/Mar/2017 05:03:36] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[08/Mar/2017 05:03:36] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[08/Mar/2017 05:03:36] "GET /js/classie.js HTTP/1.1" 200 1835
+[08/Mar/2017 05:03:36] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[08/Mar/2017 05:03:37] "GET /js/scripts.js HTTP/1.1" 200 4435
+[08/Mar/2017 05:03:37] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[08/Mar/2017 05:03:37] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[08/Mar/2017 05:03:37] "GET /images/search.png HTTP/1.1" 200 3030
+[08/Mar/2017 05:03:37] "GET /images/1.jpg HTTP/1.1" 200 13741
+[08/Mar/2017 05:03:37] "GET / HTTP/1.1" 302 0
+[08/Mar/2017 05:03:37] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[08/Mar/2017 05:03:37] "GET /accounts/login/?next=%2F&ticket=ST-212243-14psHpfp2pPCQNLVFgMi-uuap HTTP/1.1" 302 0
+[08/Mar/2017 05:03:37] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:38] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[08/Mar/2017 05:03:38] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[08/Mar/2017 05:03:38] "GET /css/style.css HTTP/1.1" 200 141729
+[08/Mar/2017 05:03:38] "GET /js/Chart.js HTTP/1.1" 200 44471
+[08/Mar/2017 05:03:38] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[08/Mar/2017 05:03:38] "GET /css/animate.css HTTP/1.1" 200 70196
+[08/Mar/2017 05:03:38] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[08/Mar/2017 05:03:38] "GET /js/classie.js HTTP/1.1" 200 1835
+[08/Mar/2017 05:03:38] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[08/Mar/2017 05:03:38] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[08/Mar/2017 05:03:38] "GET /js/scripts.js HTTP/1.1" 200 4435
+[08/Mar/2017 05:03:38] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[08/Mar/2017 05:03:39] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[08/Mar/2017 05:03:39] "GET /images/search.png HTTP/1.1" 200 3030
+[08/Mar/2017 05:03:39] "GET / HTTP/1.1" 302 0
+[08/Mar/2017 05:03:39] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[08/Mar/2017 05:03:40] "GET /images/1.jpg HTTP/1.1" 200 13741
+[08/Mar/2017 05:03:40] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:42] "GET / HTTP/1.1" 302 0
+[08/Mar/2017 05:03:42] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[08/Mar/2017 05:03:42] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:03:42] "GET /accounts/login/?next=%2F&ticket=ST-217229-ba6Q0hkmt5LgzxsJgrSg-uuap HTTP/1.1" 302 0
+[08/Mar/2017 05:03:43] "GET /accounts/login/?next=%2F&ticket=ST-212244-jKgl9Qq1pg7ZTyvwBmzi-uuap HTTP/1.1" 302 0
+[08/Mar/2017 05:03:43] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:43] "GET /js/Chart.js HTTP/1.1" 200 44471
+[08/Mar/2017 05:03:43] "GET /css/animate.css HTTP/1.1" 200 70196
+[08/Mar/2017 05:03:43] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[08/Mar/2017 05:03:43] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[08/Mar/2017 05:03:43] "GET /css/style.css HTTP/1.1" 200 141729
+[08/Mar/2017 05:03:43] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[08/Mar/2017 05:03:43] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[08/Mar/2017 05:03:43] "GET /js/classie.js HTTP/1.1" 200 1835
+[08/Mar/2017 05:03:43] "GET / HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:43] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[08/Mar/2017 05:03:43] "GET /js/scripts.js HTTP/1.1" 200 4435
+[08/Mar/2017 05:03:43] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[08/Mar/2017 05:03:43] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[08/Mar/2017 05:03:43] "GET /css/style.css HTTP/1.1" 200 141729
+[08/Mar/2017 05:03:43] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[08/Mar/2017 05:03:43] "GET /images/search.png HTTP/1.1" 200 3030
+[08/Mar/2017 05:03:43] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[08/Mar/2017 05:03:43] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[08/Mar/2017 05:03:43] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[08/Mar/2017 05:03:43] "GET /js/Chart.js HTTP/1.1" 200 44471
+[08/Mar/2017 05:03:43] "GET /css/animate.css HTTP/1.1" 200 70196
+[08/Mar/2017 05:03:43] "GET /images/1.jpg HTTP/1.1" 200 13741
+[08/Mar/2017 05:03:44] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[08/Mar/2017 05:03:44] "GET /js/classie.js HTTP/1.1" 200 1835
+[08/Mar/2017 05:03:44] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[08/Mar/2017 05:03:44] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[08/Mar/2017 05:03:44] "GET /js/scripts.js HTTP/1.1" 200 4435
+[08/Mar/2017 05:03:44] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[08/Mar/2017 05:03:44] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[08/Mar/2017 05:03:44] "GET /images/search.png HTTP/1.1" 200 3030
+[08/Mar/2017 05:03:44] "GET /hisjob HTTP/1.1" 200 7104
+[08/Mar/2017 05:03:45] "GET /images/1.jpg HTTP/1.1" 200 13741
+[08/Mar/2017 05:03:46] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:03:51] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:54] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:03:56] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:04:02] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:04:04] "GET /hisjob HTTP/1.1" 200 7104
+[08/Mar/2017 05:04:08] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:04:11] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:04:16] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:04:20] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:04:23] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:04:30] "GET /apply? HTTP/1.1" 200 7979
+[08/Mar/2017 05:04:32] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:04:35] "GET /hisjob HTTP/1.1" 200 7104
+[08/Mar/2017 05:04:43] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:04:46] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:04:54] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:04:59] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:05:01] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:05:05] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:05:05] "GET /hisjob HTTP/1.1" 200 7104
+[08/Mar/2017 05:05:06] "GET /hisjob HTTP/1.1" 200 7104
+[08/Mar/2017 05:05:06] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:05:08] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:05:09] "GET /per_pass HTTP/1.1" 200 7826
+[08/Mar/2017 05:05:19] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:05:22] "GET /per_nopass HTTP/1.1" 200 8173
+[08/Mar/2017 05:05:23] "GET /hisjob HTTP/1.1" 200 7104
+[08/Mar/2017 05:05:32] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:05:33] "GET /apply HTTP/1.1" 200 7979
+[08/Mar/2017 05:05:36] "GET /person HTTP/1.1" 200 11510
+[08/Mar/2017 05:05:36] "GET /person HTTP/1.1" 200 11510
+[08/Mar/2017 05:05:56] "GET /submit HTTP/1.1" 200 7693
+[08/Mar/2017 05:06:00] "GET /person HTTP/1.1" 200 11510
+[08/Mar/2017 05:06:15] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:06:18] "GET /per_pass HTTP/1.1" 200 7826
+[08/Mar/2017 05:06:35] "GET /per_nopass HTTP/1.1" 200 8173
+[08/Mar/2017 05:06:44] "GET /per_nopass HTTP/1.1" 200 8173
+[08/Mar/2017 05:06:55] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:07:06] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:08:40] "GET /per_pass HTTP/1.1" 200 7826
+[08/Mar/2017 05:17:05] "GET /detailjob HTTP/1.1" 200 8730
+[08/Mar/2017 05:17:11] "GET /per_pass HTTP/1.1" 200 7826
+[08/Mar/2017 05:41:25] "GET /person HTTP/1.1" 200 11510
+[08/Mar/2017 05:41:44] "GET /person HTTP/1.1" 200 11510
+[10/Mar/2017 06:23:07] "GET / HTTP/1.1" 302 0
+[10/Mar/2017 06:23:07] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[10/Mar/2017 06:23:56] "GET /accounts/login/?next=%2F&ticket=ST-224279-gcczi41QAegV1T91Ipnu-uuap HTTP/1.1" 302 0
+[10/Mar/2017 06:23:56] "GET / HTTP/1.1" 200 7979
+[10/Mar/2017 06:23:56] "GET /css/font-awesome.css HTTP/1.1" 200 22112
+[10/Mar/2017 06:23:56] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305
+[10/Mar/2017 06:23:56] "GET /css/style.css HTTP/1.1" 200 141729
+[10/Mar/2017 06:23:56] "GET /css/animate.css HTTP/1.1" 200 70196
+[10/Mar/2017 06:23:56] "GET /js/wow.min.js HTTP/1.1" 200 4776
+[10/Mar/2017 06:23:56] "GET /js/Chart.js HTTP/1.1" 200 44471
+[10/Mar/2017 06:23:58] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[10/Mar/2017 06:23:58] "GET /js/classie.js HTTP/1.1" 200 1835
+[10/Mar/2017 06:24:00] "GET /js/uisearch.js HTTP/1.1" 200 6114
+[10/Mar/2017 06:24:00] "GET /js/jquery.nicescroll.js HTTP/1.1" 200 59364
+[10/Mar/2017 06:24:01] "GET /js/scripts.js HTTP/1.1" 200 4435
+[10/Mar/2017 06:24:01] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951
+[10/Mar/2017 06:24:01] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[10/Mar/2017 06:24:01] "GET /images/1.jpg HTTP/1.1" 200 13741
+[10/Mar/2017 06:24:01] "GET /images/search.png HTTP/1.1" 200 3030
+Validating models...
+
+0 errors found
+March 07, 2017 - 03:58:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 20, 2017 - 07:23:13
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f2b404e9c08>
+Traceback (most recent call last):
+Unhandled exception in thread started by <function wrapper at 0x7f197413dc08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7fd414bf1c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7fad824b3c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7f98551f8c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7fbabd01fc08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7ffaaa914c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7f83b38f3c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7f39f2417c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7ff74b5d2c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7fefd8d28c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7fc3e5f37c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7f64f860ec08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.model):
+AttributeError: 'module' object has no attribute 'model'
+Unhandled exception in thread started by <function wrapper at 0x7f523b750c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.Model):
+  File "/home/work/dead_workspace/dead_app/models.py", line 6, in DeadUser
+    du_id = models.autofield(primary_key=true)
+AttributeError: 'module' object has no attribute 'autofield'
+Unhandled exception in thread started by <function wrapper at 0x7fbeccf18c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.Model):
+  File "/home/work/dead_workspace/dead_app/models.py", line 6, in DeadUser
+    du_id = models.autofield(primary_key=true)
+AttributeError: 'module' object has no attribute 'autofield'
+Unhandled exception in thread started by <function wrapper at 0x7f1873109c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.Model):
+  File "/home/work/dead_workspace/dead_app/models.py", line 6, in DeadUser
+    du_id = models.AutoField(primary_key=true)
+NameError: name 'true' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7f03f36c7c08>
+Validating models...
+
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 102, in inner_run
+    self.validate(display_num_errors=True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/base.py", line 310, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/validation.py", line 34, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 196, in get_app_errors
+    self._populate()
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 75, in _populate
+    self.load_app(app_name, True)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/db/models/loading.py", line 99, in load_app
+    models = import_module('%s.models' % app_name)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/importlib.py", line 40, in import_module
+    __import__(name)
+  File "/home/work/dead_workspace/dead_app/models.py", line 5, in <module>
+    class DeadUser(models.Model):
+  File "/home/work/dead_workspace/dead_app/models.py", line 7, in DeadUser
+    du_name = models.charfield(max_length=300,null=True, blank=True)
+AttributeError: 'module' object has no attribute 'charfield'
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:02:18
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:05:51
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:06:05
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:06:47
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:06:55
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:07:02
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:07:12
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f7a45e7ec08>
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 128, in inner_run
+    ipv6=self.use_ipv6, threading=threading)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 180, in run
+    httpd.serve_forever()
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 225, in serve_forever
+    r, w, e = select.select([self], [], [], poll_interval)
+AttributeError: 'NoneType' object has no attribute 'select'
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:07:18
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:08:09
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:13:12
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f8b7d084c08>
+Traceback (most recent call last):
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/utils/autoreload.py", line 93, in wrapper
+    fn(*args, **kwargs)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 128, in inner_run
+    ipv6=self.use_ipv6, threading=threading)
+  File "/home/work/.jumbo/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 180, in run
+    httpd.serve_forever()
+  File "/home/work/.jumbo/lib/python2.7/SocketServer.py", line 225, in serve_forever
+    r, w, e = select.select([self], [], [], poll_interval)
+AttributeError: 'NoneType' object has no attribute 'select'
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:13:16
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:13:18
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[24/Mar/2017 08:19:23] "GET / HTTP/1.1" 302 0
+[24/Mar/2017 08:19:23] "GET /accounts/login/?next=/ HTTP/1.1" 302 0
+[24/Mar/2017 08:19:29] "GET /accounts/login/?next=%2F&ticket=ST-15019-cJOBDOqU2JHePisaGBQr-uuap HTTP/1.1" 302 0
+[24/Mar/2017 08:19:29] "GET / HTTP/1.1" 200 7979
+[24/Mar/2017 08:19:30] "GET /css/bootstrap.min.css HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /css/style.css HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /css/font-awesome.css HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /css/animate.css HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/Chart.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/wow.min.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/uisearch.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/classie.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/jquery.nicescroll.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /js/scripts.js HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /images/search.png HTTP/1.1" 304 0
+[24/Mar/2017 08:19:30] "GET /images/1.jpg HTTP/1.1" 304 0
+[24/Mar/2017 08:19:33] "GET /apply HTTP/1.1" 200 7979
+[24/Mar/2017 08:19:40] "GET /apply HTTP/1.1" 200 7979
+[24/Mar/2017 08:19:41] "GET /apply HTTP/1.1" 200 7979
+[24/Mar/2017 08:19:42] "GET /submit HTTP/1.1" 200 7693
+[24/Mar/2017 08:19:44] "GET /hisjob HTTP/1.1" 200 7104
+[24/Mar/2017 08:19:45] "GET /detailjob HTTP/1.1" 200 8730
+[24/Mar/2017 08:19:49] "GET /apply HTTP/1.1" 200 7979
+[24/Mar/2017 08:19:53] "GET /apply HTTP/1.1" 200 7979
+[24/Mar/2017 08:19:55] "GET /person HTTP/1.1" 200 11510
+[24/Mar/2017 08:20:03] "GET /images/img-sprite.png HTTP/1.1" 404 1700
+[24/Mar/2017 08:20:06] "GET /person? HTTP/1.1" 200 11510
+[24/Mar/2017 08:20:17] "GET / HTTP/1.1" 200 7979
+Validating models...
+
+0 errors found
+March 24, 2017 - 07:14:10
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:36:19
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:36:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:41:15
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:41:24
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:41:57
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:47:12
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:47:58
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:48:29
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:48:52
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:49:06
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:49:10
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:50:10
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:50:33
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:50:42
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:51:02
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+March 27, 2017 - 05:52:30
+Django version 1.6.11, using settings 'dead_workspace.settings'
+Starting development server at http://0.0.0.0:8222/
+Quit the server with CONTROL-C.
+[27/Mar/2017 05:57:35] "GET / HTTP/1.1" 500 78468
+[27/Mar/2017 05:57:35] "GET /apply HTTP/1.1" 500 95376

@@ -1,0 +1,126 @@
+{% extends "basic.html" %}
+{% block content %}
+
+			<div id="page-wrapper">
+				<div class="graphs">
+						<div class="tab-content">
+						<div class="tab-pane active" id="horizontal-form">
+							<form class="form-horizontal" enctype="multipart/form-data" id="form">
+                                <b>测试{{username}}</b>
+								<div class="form-group">
+									<label for="name" class="col-sm-2 control-label">产品线</label>
+									<div class="col-sm-8">
+										<input type="text" class="form-control1" id="name" name="name" placeholder="Name Input" style="width:300px;">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="reason" class="col-sm-2 control-label">产品描述</label>
+									<div class="col-sm-8">
+										<input type="text" class="form-control1" id="reason" name="reason" placeholder="Reason Input" style="width:300px;">
+									</div>
+								</div>
+								<div class="form-group">
+									<label class="col-sm-2 control-label">周url配额</label>
+									<div class="col-sm-8">
+										<div class="radio-inline"><label><input type="radio" name="week_url_count" checked="" value="100w"> 100w</label></div>
+										<div class="radio-inline"><label><input type="radio" name="week_url_count" value="150w"> 150w</label></div>
+										<div class="radio-inline"><label><input type="radio" name="week_url_count" value="200w"> 200w</label></div>
+										<div class="radio-inline"><label><input type="radio" name="week_url_count" value="300w"> 300w</label></div>
+										<div class="radio-inline"><label><input type="radio" name="week_url_count" value="400w"> 400w</label></div>
+									</div>
+								</div>
+								<div class="form-group">
+									<label class="col-sm-2 control-label">产品分类</label>
+									<div class="col-sm-8">
+										<div class="radio-inline"><label><input type="radio" name="level" checked="" value="online">线上服务</label></div>
+										<div class="radio-inline"><label><input type="radio" name="level" value="offline"> 线下调研</label></div>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="sitefile" class="col-sm-2 control-label">特殊站点配额</label>
+									<div class="col-sm-8">
+										<input type="file" id="sitefile" name="sitefile">
+										<p class="help-block">文件内容格式为：站点 20w</p>
+									</div>
+								</div>
+
+						  <div class="panel-footer">
+							<div class="row">
+								<div class="col-sm-8 col-sm-offset-2">
+									<button class="btn-success btn" onclick="return confsubmit();" type="button">提交</button>
+									<!--<button class="btn-default btn">取消</button>-->
+									<button class="btn-inverse btn" type="reset">重置</button>
+								</div>
+							</div>
+						 </div>
+						</form>
+					  </div>
+				</div>
+			</div>
+<script type="text/javascript" language="javascript">
+    function confsubmit(){
+        var name = $("#name").val();
+        var reason = $("#reason").val();
+        var week_url_count = $("input:radio[name='week_url_count']").val();
+        var level = $("input:radio[name='level']").val();
+        //var sitefile = $("#sitefile").val();
+        //alert("测试");
+        //return;
+        if(!name){
+            alert("请输入产品线！");
+            return false;
+        }
+        if(!reason){
+            alert("请输入产品描述！");
+            return false;
+        }
+        //可以没有特殊站点配额
+        /*if(!sitefile){
+            alert("请选择特殊站点配额文件！");
+            return false;
+        }*/
+        
+        var judge = confirm("是否提交？");
+        if(judge == true){
+            //var param = {name:name,reason:reason,week_url_count:week_url_count,level:level,sitefile:sitefile};
+            /*var param = new FormData();
+            param.append("name",name);
+            param.append("reason",reason);
+            param.append("week_url_count",week_url_count);
+            param.append("level",level);
+            param.append("sitefile",$("#sitefile")[0].files[0]);*/
+            var param = new FormData($("#form")[0]);
+            console.log(param);
+            //window.location.href = "baidu.com";
+            $.ajax({
+                url:"submitapply",
+                type:"POST",
+                data:param,
+                dataType: "json",
+                cache:false,
+                processData:false,
+                contentType:false,
+                success: function (response) {
+                    alert("提交成功，请到用户管理界面查看结果，id号为"+response['result']);
+                    window.location.href = "person";
+                    //window.open("person");
+                },
+                error: function(jqXHR, textStatus, errorThrown){
+                //error: function(){
+                    //alert(jqXHR.responseText);
+                    //alert(jqXHR.status);
+                    //alert(jqXHR.readyState);
+                    //alert(jqXHR.statusText);
+                    //alert(textStatus);
+                    //alert(errorThrown);
+                    alert("提交失败");
+                }
+            });
+            //return false;
+        }
+        else
+            return false;
+    }
+</script>
+
+{%endblock%}

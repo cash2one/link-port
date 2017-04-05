@@ -1,0 +1,61 @@
+{% extends "basic.html" %}
+{% block content %}
+			<div id="page-wrapper">
+				<div class="graphs">
+					<div class="tab-content">
+						<div class="tab-pane active" id="horizontal-form">
+							<form class="form-horizontal">
+								<div class="form-group has-success has-feedback">
+							        <input type="text" class="form-control1" id="inputError1" value="提醒：审批已完成">
+							        
+							    </div>
+								<div class="form-group">
+									<label for="focusedinput" class="col-sm-2 control-label">产品线</label>
+									<div class="col-sm-8">
+										<input disabled=""  type="text" class="form-control1" id="focusedinput" value="spider">
+									</div>
+									
+								</div>
+								<div class="form-group">
+									<label for="disabledinput" class="col-sm-2 control-label">产品描述</label>
+									<div class="col-sm-8">
+										<input disabled="" type="text" class="form-control1" id="disabledinput" value="中文大环死链实时检测">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword" class="col-sm-2 control-label">token</label>
+									<div class="col-sm-8">
+										<input type="password" class="form-control1" id="inputPassword" placeholder="YUjkhg134Hghgh3lj">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="radio" class="col-sm-2 control-label">周url配额</label>
+									<div class="col-sm-8">
+										<table class="table table-bordered">
+										<thead><tr><td>配额</td><td>本周已用配额</td></tr></thead>
+										<tbody>
+										<tr><td>100w</td><td>1340</td></tr>
+										</tbody>
+										</table>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="disabledinput" class="col-sm-2 control-label">特殊站点配额</label>
+									<div class="col-sm-8">
+										<table class="table table-bordered">
+										<thead><tr><td>站点</td><td>配额</td><td>本周已用配额</td></tr></thead>
+										<tbody>
+										<tr><td>www.baidu.com</td><td>10w</td><td>134</td></tr>
+										<tr><td>www.sina.com</td><td>20w</td><td>1452</td></tr>
+										</tbody>
+										</table>
+									</div>
+								</div>
+								
+						  
+						 </div>
+						</form>
+					  </div>
+				</div>
+			</div>
+{%endblock%}

@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Forms</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+ <!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<!-- Custom CSS -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- Graph CSS -->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<!-- jQuery -->
+<!-- lined-icons -->
+<!-- //lined-icons -->
+<!-- chart -->
+<script src="js/Chart.js"></script>
+<!-- //chart -->
+<!--animate-->
+<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+<script src="js/wow.min.js"></script>
+	<script>
+		 new WOW().init();
+	</script>
+<!--//end-animate-->
+ <!-- Meters graphs -->
+<script src="js/jquery-1.10.2.min.js"></script>
+<!-- Placed js at the end of the document so the pages load faster -->
+
+</head> 
+   
+ <body class="sticky-header left-side-collapsed"  >
+    <section>
+    <!-- left side start-->
+		<div class="left-side sticky-left-side">
+
+			<!--logo and iconic logo start-->
+			<div class="logo">
+				<h1><a href="index.html">Spider <span>死链检测</span></a></h1>
+			</div>
+			<div class="logo-icon text-center">
+				<a href="index.html"><i class="lnr lnr-home"></i> </a>
+			</div>
+
+			<!--logo and iconic logo end-->
+			<div class="left-side-inner">
+
+				<!--sidebar nav start-->
+					{%include "left.html"%}
+				<!--sidebar nav end-->
+			</div>
+		</div>
+    <!-- left side end-->
+    
+    <!-- main content start-->
+		<div class="main-content">
+			<!-- header-starts -->
+			<div class="header-section">
+			 
+			<!--toggle button start-->
+			<a class="toggle-btn  menu-collapsed"><i class="fa fa-bars"></i></a>
+			<!--toggle button end-->
+
+			<!--notification menu start -->
+			{%include "head.html"%}
+			<!--notification menu end -->
+			</div>
+	<!-- //header-ends -->
+			{% block content %}{% endblock %}
+		</div>
+		<!--footer section start-->
+			<footer>
+			   <p>Copyright &copy; 2017.spider死链平台 - 联系我们 <a href="baidu://message?appid=chenping_ns" rel="nofollow" id="xp-auto-click">hi:陈萍</a>
+</p>
+			</footer>
+        <!--footer section end-->
+	</section>
+	
+<script src="js/jquery.nicescroll.js"></script>
+<script src="js/scripts.js"></script>
+<!-- Bootstrap Core JavaScript -->
+   <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

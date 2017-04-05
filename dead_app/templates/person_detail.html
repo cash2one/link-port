@@ -1,0 +1,225 @@
+{% extends "basic.html" %}
+{% block content %}
+			<div id="page-wrapper">
+				<div class="graphs">
+					<div class="tab-content">
+                    {% if not deaduser_dict %}
+                    <font color="red">注：该id号对应的产品线不存在</font>
+                    {% endif %} 
+                        {% ifequal deaduser_dict.item_ispass '1' %}
+						<div class="tab-pane active" id="horizontal-form">
+							<form class="form-horizontal">
+								<div class="form-group has-success has-feedback">
+							        <input type="text" class="form-control1" id="inputError1" value="提醒：审批已完成">
+							        
+							    </div>
+								<div class="form-group">
+									<label for="focusedinput" class="col-sm-2 control-label">产品线</label>
+									<div class="col-sm-8">
+										<input readonly="true"  type="text" class="form-control1" id="focusedinput" value={{deaduser_dict.item_name}}>
+									</div>
+									
+								</div>
+								<div class="form-group">
+									<label for="disabledinput" class="col-sm-2 control-label">产品描述</label>
+									<div class="col-sm-8">
+										<input readonly="true" type="text" class="form-control1" id="disabledinput" value={{deaduser_dict.item_reason}}>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword" class="col-sm-2 control-label">token</label>
+									<div class="col-sm-8">
+										<input readonly="true" type="text" class="form-control1" id="inputPassword" value={{deaduser_dict.item_token}}>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="radio" class="col-sm-2 control-label">周url配额</label>
+									<div class="col-sm-8">
+										<table class="table table-bordered">
+										<thead><tr><td>配额</td><td>本周已用配额</td></tr></thead>
+										<tbody>
+										<tr><td>{{deaduser_dict.item_week_url_count}}</td><td>{{deaduser_dict.item_week_url_use}}</td></tr>
+										</tbody>
+										</table>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="disabledinput" class="col-sm-2 control-label">特殊站点配额</label>
+									<div class="col-sm-8">
+										<table class="table table-bordered">
+										<thead><tr><td>站点</td><td>配额</td><td>本周已用配额</td></tr></thead>
+										<tbody>
+                                        {% for site_dict in deaduser_dict.item_site_per %}
+										<tr><td>{{site_dict.site_name}}</td><td>{{site_dict.site_count}}</td><td>{{site_dict.site_use}}</td></tr>
+                                        {% endfor %}
+										</tbody>
+										</table>
+									</div>
+								</div>
+								
+						  
+						    </form>
+					    </div>
+                        
+                        {% else %}
+						<div class="tab-pane active" id="horizontal-form">
+							<form class="form-horizontal">
+								<div class="form-group has-error">
+                                    {% ifequal deaduser_dict.item_ispass '0' %}
+							        <input type="text" class="form-control1" id="inputError1" value="提醒： 审批未通过">
+                                    {% else %}
+                                    {% ifequal deaduser_dict.item_ispass '2' %}
+                                    <input type="text" class="form-control1" id="inputError1" value="提醒： 未审批">
+                                    {% endifequal %}
+                                    {% endifequal %}
+							    </div>
+								<div class="form-group">
+									<label for="focusedinput" class="col-sm-2 control-label">产品线</label>
+									<div class="col-sm-8">
+										<input readonly="true"  type="text" class="form-control1" id="focusedinput" value={{deaduser_dict.item_name}}>
+									</div>
+									
+								</div>
+								<div class="form-group">
+									<label for="disabledinput" class="col-sm-2 control-label">产品描述</label>
+									<div class="col-sm-8">
+										<input readonly="true" type="text" class="form-control1" id="disabledinput" value={{deaduser_dict.item_reason}}>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword" class="col-sm-2 control-label">token</label>
+									<div class="col-sm-8">
+										<input disabled ="true" class="form-control1" id="inputPassword" placeholder="未生成token" value="">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="radio" class="col-sm-2 control-label">周url配额</label>
+									<div class="col-sm-8">
+                                        {% ifequal deaduser_dict.item_week_url_count '100w' %}
+										<div class="radio-inline"><label><input type="radio" disabled ="true" checked="">100w</label></div>
+                                        {% else %}
+                                        <div class="radio-inline"><label><input type="radio" disabled ="true">100w</label></div>
+                                        {% endifequal %}
+                                        {% ifequal deaduser_dict.item_week_url_count '150w' %}
+										<div class="radio-inline"><label><input type="radio"  disabled ="true" checked="">150w</label></div>
+                                        {% else %}
+                                        <div class="radio-inline"><label><input type="radio"  disabled ="true">150w</label></div>
+                                        {% endifequal %}
+                                        {% ifequal deaduser_dict.item_week_url_count '200w' %}
+										<div class="radio-inline"><label><input type="radio" disabled ="true" checked="">200w</label></div>
+                                        {% else %}
+                                        <div class="radio-inline"><label><input type="radio" disabled ="true">200w</label></div>
+                                        {% endifequal %}
+                                        {% ifequal deaduser_dict.item_week_url_count '300w' %}
+										<div class="radio-inline"><label><input type="radio" disabled ="true" checked="">300w</label></div>
+                                        {% else %}
+                                        <div class="radio-inline"><label><input type="radio" disabled ="true">300w</label></div>
+                                        {% endifequal %}
+                                        {% ifequal deaduser_dict.item_week_url_count '400w' %}
+                                        <div class="radio-inline"><label><input type="radio" disabled ="true" checked="">400w</label></div>
+                                        {% else %}
+                                        <div class="radio-inline"><label><input type="radio" disabled ="true">400w</label></div>
+                                        {% endifequal %}
+
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="disabledinput" class="col-sm-2 control-label">特殊站点配额</label>
+									<div class="col-sm-8">
+										<table class="table table-bordered">
+                                        {% for site_dict in deaduser_dict.item_site_per %}
+                                        <tr><td>{{site_dict.site_name}}</td><td>{{site_dict.site_count}}</td></tr>
+                                        {% endfor %}
+										</table>
+									</div>
+								</div>
+								
+						  <div class="panel-footer">
+							<div class="row">
+								<div class="col-sm-8 col-sm-offset-2">
+                                    <input type="hidden" name="du_id" id="du_id" value={{deaduser_dict.item_id}} />
+                                    {% ifequal deaduser_dict.item_ispass '2' %}
+									<button class="btn-success btn" onclick="return remind_approve()" type="button">提醒审批</button><!--发邮件或者hi-->
+									<button class="btn-default btn" onclick="return cancel_approve()" type="button">取消审批</button><!--删除数据-->
+                                    {% endifequal %}
+                                    <!--<a href="modify_apply?du_id={{deaduser_dict.item_id}}">修改数据</a>-->
+									<button class="btn-inverse btn" type="button" onclick="window.location.href='modify_apply?du_id='+{{deaduser_dict.item_id}}">修改申请</button>
+								</div>
+							</div>
+						 </div>
+						</form>
+                      </div> 
+                      {% endifequal %}
+					</div>
+				</div>
+			</div>
+
+<script type="text/javascript" language="javascript">
+    function cancel_approve(){
+        var judge = confirm("是否取消审批？");
+        var du_id = {{deaduser_dict.item_id}};
+        if(judge == true){
+            var param = {du_id:du_id};
+            console.log(param);
+            $.ajax({
+                url:"cancel_approve",
+                type:"GET",
+                data:param,
+                async:true,
+                dataType:"json",
+                success:function(response){
+                    if(response["result"] == "success"){
+                        alert("取消审核成功");
+                    }
+                    else if(response["result"] == "fail"){
+                        alert("该id号对应的产品线不存在，请确认后进行操作");
+                    }
+                    window.location.href = "person";
+                },
+                error:function(){
+                    alert("取消审核失败");
+                }
+            });
+        }
+        else
+            return false;
+    }
+    function remind_approve(){
+        var judge = confirm("是否提醒审核？");
+        var du_id = {{deaduser_dict.item_id}};
+        if(judge == true){
+            var param = {du_id:du_id};
+            console.log(param);
+            $.ajax({
+                url:"remind_approve",
+                type:"GET",
+                data:param,
+                async:true,
+                dataType:"json",
+                success:function(response){
+                    if(response["result"] == "success"){
+                        alert("已发送hi和邮件进行提醒");
+                        //alert(response["receiver"]);
+                    }
+                    else if(response["result"] == "fail"){
+                        alert("该id号对应的产品线不存在，请确认后进行操作");
+                    }
+                    window.location.href = "person";
+                },
+                error:function(jqXHR, textStatus, errorThrown){
+                    alert("提醒审核失败");
+                    //alert(jqXHR.responseText);
+                    //alert(jqXHR.status);
+                    //alert(jqXHR.readyState);
+                    //alert(jqXHR.statusText);
+                }
+            });
+        }
+        else
+            return false;
+    }
+
+</script>                    
+            
+
+{%endblock%}
